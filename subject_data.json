@@ -1,0 +1,27 @@
+{
+    "subjects" : [
+        "Indian History",
+        "Geography",
+        "Indian Polity",
+        "Physics",
+        "Chemistry",
+        "Science and Technology",
+        "Sports"
+      ],
+      "subjectsApiCode" : {
+        "Indian History": "indian_history",
+  
+        "Geography": "geography",
+  
+        "Indian Polity": "indian_polity",
+  
+        "Physics": "physics",
+  
+        "Chemistry": "chemistry",
+  
+        "Science and Technology": "science_and_technology",
+  
+        "Sports":"sports"
+  
+      }
+}

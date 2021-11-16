@@ -1,0 +1,444 @@
+{
+    "data" : [
+        {
+          "id": "2.1.1",
+          "question": "Milky way galaxy was first seen by -",
+          "options": ["Galileo", "Martin Schmidt", "Marconi", "Newton"],
+          "reference": "SSC Tax Asst. 2006",
+          "answer_index": 0
+        },
+        {
+          "id": "2.1.2",
+          "question": "Who founded the word 'Geography'?",
+          "options": ["Ptolemy", "Eratosthenes", "Hicatus", "Herodotus"],
+          "reference": "SSC CGL 2010",
+          "answer_index": 1
+        },
+        {
+          "id": "2.1.3",
+          "question":
+              "Which of the following scientist proved that the path of each planet around the sun is elliptical?",
+          "options": ["Kepler", "Galileo", "Newton", "Copernicus"],
+          "reference": "SSC MTS 2013",
+          "answer_index": 0
+        },
+        {
+          "id": "2.1.4",
+          "question": "Comets moves around the-",
+          "options": ["Earth", "Venus", "Sun", "Jupiter"],
+          "reference": "SSC MTS 2013",
+          "answer_index": 2
+        },
+        {
+          "id": "2.1.5",
+          "question": "Which of the following is not related to solar system?",
+          "options": ["Small planet", "Comets", "Planet", "Nebula"],
+          "reference": "SSC CPO 2008",
+          "answer_index": 3
+        },
+        {
+          "id": "2.1.6",
+          "question": "Pulsar are-",
+          "options": [
+            "Stars moving towards the Earth",
+            "Stars moving away from Earth",
+            "Rapidly rotating stars",
+            "Stars with high temperature"
+          ],
+          "reference": "SSC CPO 2008",
+          "answer_index": 2
+        },
+        {
+          "id": "2.1.7",
+          "question": "The distance between Earth and Sun is maximum on-",
+          "options": ["January 30", "December 20", "September 22", "July 4"],
+          "reference": "SSC CGL 2012",
+          "answer_index": 3
+        },
+        {
+          "id": "2.1.8",
+          "question": "What is the total number of planets moves around the Sun?",
+          "options": ["Five", "Eight", "Seven", "Six"],
+          "reference": "SSC CPO 2015",
+          "answer_index": 1
+        },
+        {
+          "id": "2.1.9",
+          "question": "Which of the following is the largest planet?",
+          "options": ["Jupiter", "Venus", "Saturn", "Uranus"],
+          "reference": "SSC MTS,CPO 2007",
+          "answer_index": 0
+        },
+        {
+          "id": "2.1.10",
+          "question": "Which is the 3rd largest planet in the solar system?",
+          "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+          "reference": "SSC Sec. Off. 2007",
+          "answer_index": 2
+        },
+        {
+          "id": "2.1.11",
+          "question": "The number of satelite of mercury is/are",
+          "options": ["0", "1", "2", "16"],
+          "reference": "SSC CPO 2008",
+          "answer_index": 0
+        },
+        {
+          "id": "2.1.12",
+          "question": "Which of the following planet do not have satelite?",
+          "options": [
+            "Mars and Venus",
+            "Mercury and Venus",
+            "Mars and Mercury",
+            "Neptune and Pluto"
+          ],
+          "reference": "SSC CPO,MTS 2013",
+          "answer_index": 1
+        },
+        {
+          "id": "2.1.13",
+          "question":
+              "Which of the following scientist had proven that every planet has an elongated path?",
+          "options": ["Galileo", "Newton", "Copernicus", "Kepler"],
+          "reference": "SSC CHSL 2015",
+          "answer_index": 3
+        },
+        {
+          "id": "2.1.14",
+          "question": "How many days on one year on mercury?",
+          "options": ["56", "88", "300", "36"],
+          "reference": "SSC CHSL 2015",
+          "answer_index": 1
+        },
+        {
+          "id": "2.1.15",
+          "question": "Which of the following is not a satelite of Jupiter?",
+          "options": ["Europa", "Ganymede", "Callisto", "Deimos"],
+          "reference": "SSC CGL 2013",
+          "answer_index": 3
+        },
+        {
+          "id": "2.1.16",
+          "question": "Why stars look more in west than east?",
+          "options": [
+            "Universe is moving from east to west",
+            "Earth is moving around the Sun",
+            "Earth is moving from east to west",
+            "Earth is moving from west to east"
+          ],
+          "reference": "SSC CGL 2012",
+          "answer_index": 3
+        },
+        {
+          "id": "2.1.17",
+          "question":
+              "In astrophysics, what is the name of hole in outer space which emits stars and energy",
+          "options": ["Black Hole", "Ozone Hole", "Asteroid Belt", "White Hole"],
+          "reference": "SSC CGL 2013",
+          "answer_index": 3
+        },
+        {
+          "id": "2.1.18",
+          "question": "Which is the nearest  planet to Sun?",
+          "options": ["Earth", "Mercury", "Mars", "Venus"],
+          "reference": "SSC MTS 2011",
+          "answer_index": 1
+        },
+        {
+          "id": "2.1.19",
+          "question":
+              "The orbit in which of the following planet is nearest to the Sun?",
+          "options": ["Saturn", "Jupiter", "Mars", "Uranus"],
+          "reference": "SSC LDC 2005",
+          "answer_index": 2
+        },
+        {
+          "id": "2.1.20",
+          "question":
+              "Which of the following celestial bodies is located farthermost to the Earth?",
+          "options": ["Saturn", "Uranus", "Neptune", "Pluto"],
+          "reference": "SSC Tax Asst. 2009",
+          "answer_index": 3
+        },
+        {
+          "id": "2.2.1",
+          "question": "Which of the following is known as the 'Roof of the world'?",
+          "options": [
+            "Everest",
+            "Pamir Mountains",
+            "Siberian Field",
+            "Hindu Kush Mountain"
+          ],
+          "reference": "SSC CGL 2013",
+          "answer_index": 1
+        },
+        {
+          "id": "2.2.2",
+          "question":
+              "The narrow strip of land joining two land masses is called as - ",
+          "options": ["Cape", "Isthmus", "Strait", "Peninsula"],
+          "reference": "SSC CGL 2013",
+          "answer_index": 1
+        },
+        {
+          "id": "2.2.3",
+          "question": "Which of the following city is known as the 'Eternal City'?",
+          "options": ["London", "Rome", "Athens", "Berlin"],
+          "reference": "SSC Tax. Asst. 2006",
+          "answer_index": 1
+        },
+        {
+          "id": "2.2.4",
+          "question": "Desert building can be prevented by - ",
+          "options": [
+            "Plugging Gullies",
+            "By Stopping Trespassing",
+            "Contour Ploughing",
+            "Forming Protective Belts"
+          ],
+          "reference": "SSC FCI 2012",
+          "answer_index": 3
+        },
+        {
+          "id": "2.2.5",
+          "question": "'Kalahari' desert is in which continent?",
+          "options": ["South America", "Australia", "Africa", "Asia"],
+          "reference": "SSC CHSL 2013",
+          "answer_index": 2
+        },
+        {
+          "id": "2.2.6",
+          "question": "Which is the largest desert in the world?",
+          "options": ["Sahara", "Gobi", "Thar", "Taklamakan"],
+          "reference": "SSC CGL 2005",
+          "answer_index": 0
+        },
+        {
+          "id": "2.2.7",
+          "question": "In which part of africa, Sahara desert is located?",
+          "options": ["Eastern", "Western", "Northern", "Southern"],
+          "reference": "SSC CHSL 2014",
+          "answer_index": 2
+        },
+        {
+          "id": "2.2.8",
+          "question": "The lake created by Aswan Dam in Africa is-",
+          "options": ["Chad", "Victoria", "Nasser", "Tanganyika"],
+          "reference": "SSC CHSL 2014",
+          "answer_index": 2
+        },
+        {
+          "id": "2.2.9",
+          "question":
+              "Which of the following city is the capital of desert country Mali?",
+          "options": ["Damascus", "Bamako", "Adra", "Ankara"],
+          "reference": "SSC CHSL 2014",
+          "answer_index": 1
+        },
+        {
+          "id": "2.2.10",
+          "question": "Which is the largest country in (in area)?",
+          "options": ["Canada", "China", "USA", "Russia"],
+          "reference": "SSC MTS 2008",
+          "answer_index": 3
+        },
+        {
+          "id": "2.2.11",
+          "question": "COrsica Island is related to-",
+          "options": ["Mussolini", "Hitler", "Napoleon Bonaparte", "Churchill"],
+          "reference": "SSC CPO 2007",
+          "answer_index": 2
+        },
+        {
+          "id": "2.2.12",
+          "question": "Which of the following is meant by an archipelago?",
+          "options": ["Lake", "Island", "Mountain", "Plateau"],
+          "reference": "SSC LDC 2005",
+          "answer_index": 1
+        },
+        {
+          "id": "2.2.13",
+          "question": "The mountain which separates Asia and Europe is?",
+          "options": [
+            "Allai Mountain Range",
+            "Alps Mountain",
+            "Ural Mountain",
+            "Rocky Mountain"
+          ],
+          "reference": "SSC Steno. 2005",
+          "answer_index": 2
+        },
+        {
+          "id": "2.2.14",
+          "question": "Which of the country is formed by various number of islands?",
+          "options": ["Papua New Guinea", "Philippines", "Japan", "Indonesia"],
+          "reference": "SSC MTS 2013",
+          "answer_index": 3
+        },
+        {
+          "id": "2.2.15",
+          "question":
+              "Which of the following is not a result of underground water activity?",
+          "options": ["Stalactites", "Stalagmites", "Sink Holes", "Fiords"],
+          "reference": "SSC MTS 2001",
+          "answer_index": 3
+        },
+        {
+          "id": "2.2.16",
+          "question": "In which type of topography, water recharge pores are found?",
+          "options": ["Karst Topography", "Terrain", "Desert", "Tundra"],
+          "reference": "SSC CGL 2015",
+          "answer_index": 0
+        },
+        {
+          "id": "2.2.17",
+          "question": "The breaking of the rocks at its place is known as - ",
+          "options": ["Erosion", "Weathering", "Mass Destruction", "Degradation"],
+          "reference": "SSC CHSL 2013",
+          "answer_index": 1
+        },
+        {
+          "id": "2.2.18",
+          "question": "The coral reefs are specimen of -",
+          "options": [
+            "Temperate Forests",
+            "Tropical Rain Forest",
+            "Savannah",
+            "Coppice Land"
+          ],
+          "reference": "SSC CGL 2011",
+          "answer_index": 1
+        },
+        {
+          "id": "2.2.19",
+          "question": "Pits, formed by the deflating action of wind are called -",
+          "options": ["Playa", "Yardang", "Blowouts", "Sand dune"],
+          "reference": "SSC CGL 2010",
+          "answer_index": 2
+        },
+        {
+          "id": "2.2.20",
+          "question": "What is the incident of movement of land-mass or rockfalls?",
+          "options": ["Landslide", "Earth progression", "Scaling off", "Weathering"],
+          "reference": "SSC LDC 2005",
+          "answer_index": 0
+        },
+        {
+          "id": "2.3.1",
+          "question": "The longest river of Europe is -",
+          "options": ["Rhine", "Rhone", "Danube", "Volga"],
+          "reference": "SSC CHSL 2013",
+          "answer_index": 3
+        },
+        {
+          "id": "2.3.2",
+          "question": "The largest delta of the World is -",
+          "options": ["Nippon Delta", "Sicily Delta", "Ganga Delta", "Caspian Delta"],
+          "reference": "SSC CGL 2014",
+          "answer_index": 2
+        },
+        {
+          "id": "2.3.3",
+          "question": "Which of the following river crosses the Equator twice?",
+          "options": ["Congo", "Amazon", "Niger", "Nile"],
+          "reference": "SSC CHSL 2013",
+          "answer_index": 0
+        },
+        {
+          "id": "2.3.4",
+          "question":
+              "Which of the following river crosses Tropic of Capricon twice?",
+          "options": ["Vaal River", "Limpopo River", "Niger River", "Zambezi River"],
+          "reference": "SSC CHSL 2014",
+          "answer_index": 1
+        },
+        {
+          "id": "2.3.5",
+          "question": "Which is the largest river of Asia?",
+          "options": [
+            "Indus River",
+            "Yangtze River",
+            "Hwang Ho River",
+            "Ganga River"
+          ],
+          "reference": "SSC CHSL 2014",
+          "answer_index": 1
+        },
+        {
+          "id": "2.3.6",
+          "question": "Rivers in 'Annular' pattern flow in which direction?",
+          "options": [
+            "West to east",
+            "North to South",
+            "Like a ring",
+            "Transverse Direction"
+          ],
+          "reference": "SSC CGL 2013",
+          "answer_index": 2
+        },
+        {
+          "id": "2.3.7",
+          "question": "In which river is 'Grand Canyon'?",
+          "options": ["Mississippi", "Colorado", "Columbia", "Ohara"],
+          "reference": "SSC CPO,CGL 1999,2013",
+          "answer_index": 1
+        },
+        {
+          "id": "2.3.8",
+          "question": "The reason behind broadening the river valley is-",
+          "options": ["Corrosion", "Soil Erosion", "Attrition", "Hydraulic action"],
+          "reference": "SSC CHSL 2014",
+          "answer_index": 1
+        },
+        {
+          "id": "2.3.9",
+          "question": "What process takes place during the youthful stage of river?",
+          "options": [
+            "Valley widening",
+            "river rejuvenating",
+            "Valley deepening",
+            "Meandering"
+          ],
+          "reference": "SSC CGL 2016",
+          "answer_index": 2
+        },
+        {
+          "id": "2.3.10",
+          "question":
+              "A drainage pattern where a river is joined by its tributaries approx. at right angles is -",
+          "options": ["Dendritic", "Trellis", "Rectangular", "Radial"],
+          "reference": "SSC CGL 2016",
+          "answer_index": 1
+        },
+        {
+          "id": "2.3.11",
+          "question": "The Lena river passes through which country?",
+          "options": ["China", "USA", "Russia", "Brazil"],
+          "reference": "SSC CGL 2013",
+          "answer_index": 2
+        },
+        {
+          "id": "2.3.12",
+          "question": "An artificial navigation channel is called -",
+          "options": ["Canal", "Greenhouse effect", "Flord", "Caprock"],
+          "reference": "SSC MTS 2009",
+          "answer_index": 0
+        },
+        {
+          "id": "2.3.13",
+          "question":
+              "WHich of the following city is located on the banks of the river Potomac?",
+          "options": ["Berlin", "Islamabad", "Madrid", "Washington D.C."],
+          "reference": "SSC CGL 2016",
+          "answer_index": 3
+        },
+        {
+          "id": "2.3.14",
+          "question":
+              "Farakka barrage is a major reason for contention between  India and __________.",
+          "options": ["Bangladesh", "Pakistan", "China", "Nepal"],
+          "reference": "SSC CGL 2016",
+          "answer_index": 0
+        }
+      ]
+}

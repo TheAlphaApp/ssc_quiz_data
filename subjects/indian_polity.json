@@ -1,0 +1,415 @@
+{
+    "data": [
+        {
+          "id": "3.1.1",
+          "question": "Which is the highest law of the land?",
+          "options": [
+            "India Penal Code",
+            "Indian Constitution",
+            "Civil Procedure Code",
+            "Criminal  Procedure Code"
+          ],
+          "reference": "SSC CHSL 2002",
+          "answer_index": 1
+        },
+        {
+          "id": "3.1.2",
+          "question": "The constitution of India was framed by -",
+          "options": [
+            "Planning Commission",
+            "Constituent Assembly",
+            "President",
+            "Working Committee"
+          ],
+          "reference": "SSC CHSL 2016",
+          "answer_index": 1
+        },
+        {
+          "id": "3.1.3",
+          "question": "The Indian constitution was adopted on -",
+          "options": [
+            "26 January, 1950",
+            "26 January, 1946",
+            "26 November, 1949",
+            "31 December, 1949"
+          ],
+          "reference": "SSC Sec. Off. 2007",
+          "answer_index": 2
+        },
+        {
+          "id": "3.1.4",
+          "question": "The Indian constitution came into force on -",
+          "options": [
+            "26 January, 1950",
+            "26 January, 1952",
+            "15 August, 1948",
+            "31 November, 1949"
+          ],
+          "reference": "SSC CPO,CHSL 2016",
+          "answer_index": 0
+        },
+        {
+          "id": "3.1.5",
+          "question":
+              "On which date, The Congress had observed as the Independence in 1930?",
+          "options": ["15 August", "26 November", "26 January", "31 January"],
+          "reference": "SSC CHSL 2006",
+          "answer_index": 2
+        },
+        {
+          "id": "3.1.6",
+          "question": "Constitution Day of India is on ___________.",
+          "options": ["26th January", "23rd June", "15th August", "26th November"],
+          "reference": "SSC CHSL 2016",
+          "answer_index": 3
+        },
+        {
+          "id": "3.1.7",
+          "question": "The original constitution of India was published in?",
+          "options": ["Delhi", "Srinagar", "Ajmer", "Dehradun"],
+          "reference": "SSC CHSL 2016",
+          "answer_index": 3
+        },
+        {
+          "id": "3.1.8",
+          "question": "Indian constitution is made up of how many words?",
+          "options": ["40000", "60000", "80000", "120000"],
+          "reference": "SSC CHSL 2016",
+          "answer_index": 2
+        },
+        {
+          "id": "3.1.9",
+          "question":
+              "The constitution of which country is the longest written constitution of any sovereign country in the world?",
+          "options": ["Russia", "United Kingdom", "USA", "India"],
+          "reference": "SSC",
+          "answer_index": 3
+        },
+        {
+          "id": "3.1.10",
+          "question": "First country to make constitution is -",
+          "options": ["India", "England", "USA", "Sri Lanka"],
+          "reference": "SSC CHSL 2016",
+          "answer_index": 2
+        },
+        {
+          "id": "3.1.11",
+          "question": "The original 1950 Constitution of India is preserved in -",
+          "options": [
+            "President House",
+            "Parliament House",
+            "Archaeological Survey of India",
+            "Prime Minister House"
+          ],
+          "reference": "SSC CHSL 2016",
+          "answer_index": 1
+        },
+        {
+          "id": "3.1.12",
+          "question":
+              "The drafting committee wrote the Indian Constitution in which language?",
+          "options": [
+            "English and Hindi",
+            "Only English",
+            "English and Urdu",
+            "English, Hindi and Urdu"
+          ],
+          "reference": "SSC CHSL 2016",
+          "answer_index": 1
+        },
+        {
+          "id": "3.1.13",
+          "question": "What does the wheel in National Flag represent?",
+          "options": ["Speed", "Truth", "Growth", "Future"],
+          "reference": "SSC CHSL 2016",
+          "answer_index": 1
+        },
+        {
+          "id": "3.1.14",
+          "question":
+              "In the National Flag of India, Ashoka Chakra is a ___________ spoked wheel?",
+          "options": ["8", "12", "16", "24"],
+          "reference": "SSC CHSL 2016",
+          "answer_index": 3
+        },
+        {
+          "id": "3.1.15",
+          "question":
+              "Who among the following was the first 'Minister of Finance' in independent India?",
+          "options": [
+            "R.K. Shanmukham Chetty",
+            "Liaquat Ali Khan",
+            "John Mathai",
+            "Satya Narayan Sinha"
+          ],
+          "reference": "SSC CPO SI 2016",
+          "answer_index": 0
+        },
+        {
+          "id": "3.1.16",
+          "question":
+              "Which among the following articles came into force on 26th November 1949, the day the Indian Constitution was adopted?",
+          "options": ["Article 388", "Article 390", "Article 387", "Article 386"],
+          "reference": "SSC CPO 2016",
+          "answer_index": 0
+        },
+        {
+          "id": "3.1.17",
+          "question":
+              "When did India become a complete sovereign democratic republic?",
+          "options": [
+            "26  January 1949",
+            "26 November 1951",
+            "26 January 1930",
+            "26 November 1949"
+          ],
+          "reference": "SSC CHSL 2015",
+          "answer_index": 3
+        },
+        {
+          "id": "3.1.18",
+          "question":
+              "Which of the following country has an Non-written constitution?",
+          "options": ["USA", "UK", "Pakistan", "India"],
+          "reference": "SSC Sec. Off. 2006",
+          "answer_index": 1
+        },
+        {
+          "id": "3.1.19",
+          "question":
+              "A unitary form of government is that in which all the powers are concentrated in the hands of -",
+          "options": [
+            "Local government",
+            "Central government",
+            "Provincial government",
+            "Panchayats"
+          ],
+          "reference": "SSC CGL 2016",
+          "answer_index": 1
+        },
+        {
+          "id": "3.1.20",
+          "question":
+              "Bicarmel system is a feature of which of the following form of government?",
+          "options": [
+            "Parliamentry System",
+            "President System",
+            "Federal System",
+            "Unitary System"
+          ],
+          "reference": "SSC CGL 2012",
+          "answer_index": 2
+        },
+        {
+          "id": "3.2.1",
+          "question":
+              "Where can we see the values of Indian democracy in the constitution?",
+          "options": ["Preamble", "Part-3", "Part-4", "Part-1"],
+          "reference": "SSC CHSL 2013",
+          "answer_index": 0
+        },
+        {
+          "id": "3.2.2",
+          "question":
+              "Which of the following is described as the 'Soul of the constitution'?",
+          "options": [
+            "Fundamental Right",
+            "Fundamental Duties",
+            "Directive Principles for State Policy",
+            "Preamble"
+          ],
+          "reference": "SSC CGL 2011",
+          "answer_index": 3
+        },
+        {
+          "id": "3.2.3",
+          "question":
+              "Which of the following forms are described for India in the preamble of constitution?",
+          "options": [
+            "A Sovereign, Democratic, Republic",
+            "A Socialist, Democratic,Republic",
+            "A Sovereign, Socialist, Secular, Democratic, Republic",
+            "A Secular,Republic"
+          ],
+          "reference": "SSC CPO,CGL 2008,11",
+          "answer_index": 2
+        },
+        {
+          "id": "3.2.4",
+          "question":
+              "Which of the following term is not used in the preamble of the constitution?",
+          "options": ["Sovereign", "Socialist", "Secular", "Federal"],
+          "reference": "SSC CPO 2003,07,09",
+          "answer_index": 3
+        },
+        {
+          "id": "3.2.5",
+          "question": "What is popular sovereignity?",
+          "options": [
+            "Domination of people",
+            "Domination of representive of people",
+            "Domination of judiciary",
+            "Domination of legislative"
+          ],
+          "reference": "SSC CGL 2015",
+          "answer_index": 1
+        },
+        {
+          "id": "3.2.6",
+          "question":
+              "Which is the first country which adopted Preamble for its written constitution?",
+          "options": ["USA", "India", "Britain", "Canada"],
+          "reference": "SSC CGL 2011",
+          "answer_index": 0
+        },
+        {
+          "id": "3.2.7",
+          "question":
+              "How many times has The Preamble of the constitution been amended?",
+          "options": ["3 times", "2 times", "1 time", "Never amended"],
+          "reference": "SSC CHSL 2014",
+          "answer_index": 2
+        },
+        {
+          "id": "3.2.8",
+          "question":
+              "Which Amendment Act introduced changes in the Preamble to the Indian Constitution?",
+          "options": [
+            "The 3rd Amendment Act",
+            "The 40th Amendment Act",
+            "The 42nd Amendment Act",
+            "The 4th Amendment Act"
+          ],
+          "reference": "SSC CGL 2008",
+          "answer_index": 2
+        },
+        {
+          "id": "3.2.9",
+          "question":
+              "In which amendment, the words 'Socialist', 'Secular' and 'Unity and Integrity of the Nation' were added to the Preamble of constitution of India?",
+          "options": ["42nd", "44th", "52nd", "None of them"],
+          "reference": "SSC CGL,CPO 2016,09",
+          "answer_index": 0
+        },
+        {
+          "id": "3.2.10",
+          "question":
+              "At the time of enactment of the constitution, which one of the following ideals was not included in the preamble?",
+          "options": ["Liberty", "Equality", "Socialist", "Justice"],
+          "reference": "SSC CGL 2006",
+          "answer_index": 2
+        },
+        {
+          "id": "3.2.11",
+          "question":
+              "Which of the following is not mentioned in The Preamble of our constitution?",
+          "options": [
+            "Justice",
+            "Fraternity",
+            "Equality of dignity",
+            "Adult suffrage"
+          ],
+          "reference": "FCI Asst. 2012",
+          "answer_index": 3
+        },
+        {
+          "id": "3.2.12",
+          "question":
+              "The philosophy and values of the makers of constitution are reflected in -",
+          "options": [
+            "Fundamental rights",
+            "Directive principles of state policy",
+            "The preamble",
+            "Fundamental duties"
+          ],
+          "reference": "SSC CHSL 2012",
+          "answer_index": 2
+        },
+        {
+          "id": "3.2.13",
+          "question": "According to our constitution our India is -",
+          "options": [
+            "A religious state",
+            "A secular state",
+            "A capitalist state",
+            "A plutocratic state"
+          ],
+          "reference": "SSC CHSL 2016",
+          "answer_index": 1
+        },
+        {
+          "id": "3.2.14",
+          "question":
+              "Indian constitution imagines a democratic society, because its ideology consists of -",
+          "options": [
+            "Justice",
+            "Liberty",
+            "Equality and Fraternity",
+            "All of the above"
+          ],
+          "reference": "SSC CGL 2011",
+          "answer_index": 3
+        },
+        {
+          "id": "3.2.15",
+          "question":
+              "Which of the following words is mentioned first in the preamble",
+          "options": ["Democratic", "Socialist", "Sovereign", "Republic"],
+          "reference": "SSC CGL 2011",
+          "answer_index": 2
+        },
+        {
+          "id": "3.2.16",
+          "question": "The term 'We' in the preamble means -",
+          "options": [
+            "Indian Goverment",
+            "Supreme Court",
+            "Indian Parliament",
+            "The People of India"
+          ],
+          "reference": "SSC CGL 2011",
+          "answer_index": 3
+        },
+        {
+          "id": "3.2.17",
+          "question":
+              "Where is the objective of 'Social Justice' articulated in constitution?",
+          "options": ["Article 14", "Article 16", "Article 15", "Preamble"],
+          "reference": "SSC CGL 2011",
+          "answer_index": 3
+        },
+        {
+          "id": "3.2.18",
+          "question":
+              "Which of the following attribute in the preamble states that No one should treat a fellow citizen as inferior?",
+          "options": ["Justice", "Liberty", "Equality", "Fraternity"],
+          "reference": "SSC CPO 2016",
+          "answer_index": 3
+        },
+        {
+          "id": "3.2.19",
+          "question":
+              "The term 'Fraternity' in the Preamble of Indian Constitution means a sense of -",
+          "options": [
+            "Friendliness",
+            "Statehood",
+            "Love and affection",
+            "Brotherhood"
+          ],
+          "reference": "SSC MTS 2017",
+          "answer_index": 3
+        },
+        {
+          "id": "3.2.20",
+          "question": "A secular state is one which:",
+          "options": [
+            "Has no religion of its own",
+            "Is irreligious",
+            "Is anti-religion",
+            "Consider religious sentiments of people"
+          ],
+          "reference": "SSC FCI Pre 2012",
+          "answer_index": 0
+        }
+      ]
+}

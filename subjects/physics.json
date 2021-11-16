@@ -1,0 +1,413 @@
+{
+    "data" : [
+        {
+          "id": "4.1.1",
+          "question": "Therm is the unit of -",
+          "options": ["Power", "Heat", "Light", "Distance"],
+          "reference": "SSC Tax Asst. 2007",
+          "answer_index": 1
+        },
+        {
+          "id": "4.1.2",
+          "question": "Ice is packed in saw dust, because saw dust:",
+          "options": [
+            "Does not stick to the ice",
+            "Will not get melt easily",
+            "Is a good conductor of heat",
+            "Poor conductor of heat"
+          ],
+          "reference": "SSC CGL 2015",
+          "answer_index": 3
+        },
+        {
+          "id": "4.1.3",
+          "question": "Water is used in hot water bags because",
+          "options": [
+            "It is easily available",
+            "It is cheap",
+            "Its specific heat is more",
+            "It can be heated easily"
+          ],
+          "reference": "SSC CGL 2015",
+          "answer_index": 2
+        },
+        {
+          "id": "4.1.4",
+          "question":
+              "Which of the following metal has the maximum thermal conductivity?",
+          "options": ["Iron", "Aluminium", "Copper", "Silver"],
+          "reference": "SSC CGL 2016",
+          "answer_index": 3
+        },
+        {
+          "id": "4.1.5",
+          "question": "A body absorbs maximum amount of heat when it is ",
+          "options": [
+            "Black and rough",
+            "Black and smooth",
+            "White and rough",
+            "White and smooth"
+          ],
+          "reference": "SSC Steno. 2011",
+          "answer_index": 0
+        },
+        {
+          "id": "4.1.6",
+          "question": "Heat of a reaction does not depend upon -",
+          "options": [
+            "Temperature of reaction",
+            "Path by which final product is obtained",
+            "Physical state of product",
+            "Constant pressure"
+          ],
+          "reference": "SSC CHSL 2012",
+          "answer_index": 1
+        },
+        {
+          "id": "4.1.7",
+          "question":
+              "Energy travels from sun to earth by which of the following method:",
+          "options": ["Conduction", "Insolation", "Radiation", "Modulation"],
+          "reference": "SSC CGL 2016",
+          "answer_index": 2
+        },
+        {
+          "id": "4.1.8",
+          "question": "Which of the following causes more burn?",
+          "options": ["Boiling water", "Hot water", "Steam", "None of these"],
+          "reference": "SSC CPO 2006",
+          "answer_index": 2
+        },
+        {
+          "id": "4.1.9",
+          "question":
+              "The direction of flow of heat between any two systems depends on their -",
+          "options": [
+            "Specific heat",
+            "Latent heat",
+            "Individual temperature",
+            "Individual amount of heat"
+          ],
+          "reference": "SSC MTS 2013",
+          "answer_index": 2
+        },
+        {
+          "id": "4.1.10",
+          "question":
+              "Due to horizontal motion of air, transfer of heat is known as -",
+          "options": ["Advection", "Convection", "Conduction", "Radiation"],
+          "reference": "SSC MTS 2008",
+          "answer_index": 0
+        },
+        {
+          "id": "4.1.11",
+          "question":
+              "The characteristics invalid for heat radiation is that it travels:",
+          "options": [
+            "In a straight line",
+            "In all directions",
+            "With the speed of light",
+            "Heating the medium through which it passes"
+          ],
+          "reference": "SSC MTS 2013",
+          "answer_index": 3
+        },
+        {
+          "id": "4.1.12",
+          "question": "Convection occurs in which of the following",
+          "options": [
+            "Solids and liquids",
+            "Liquids and gases",
+            "Gases and solids",
+            "Solid liquid and gases"
+          ],
+          "reference": "SSC FCI 2012",
+          "answer_index": 1
+        },
+        {
+          "id": "4.1.13",
+          "question":
+              "Which of the following liquid contains highest rate of evaporation?",
+          "options": ["Kerosene Oil", "Water", "Petrol", "Alcohol"],
+          "reference": "SSC Steno 2014",
+          "answer_index": 3
+        },
+        {
+          "id": "4.1.14",
+          "question": "The hottest part of gas flame is known as-",
+          "options": ["Non-luminous zone", "Blue zone", "Luminous zone", "Dark zone"],
+          "reference": "SSC MTS 2013",
+          "answer_index": 0
+        },
+        {
+          "id": "4.1.15",
+          "question": "Of heat, Earth is a :",
+          "options": [
+            "Good reflector",
+            "Bad observer",
+            "Good observer and good radiator",
+            "Bad observer and bad radiator"
+          ],
+          "reference": "SSC MTS 2013",
+          "answer_index": 3
+        },
+        {
+          "id": "4.1.16",
+          "question":
+              "Which of the following is the good conductor of heat but bad conductor of electricity?",
+          "options": ["Mica", "Asbestos", "Celluloid", "Paraffin wax"],
+          "reference": "SSC DEO,LDC 2012",
+          "answer_index": 0
+        },
+        {
+          "id": "4.1.17",
+          "question":
+              "Which of the following has the largest value of specific heat?",
+          "options": ["Glass", "Copper", "Lead", "Water"],
+          "reference": "SSC DEO 2008",
+          "answer_index": 3
+        },
+        {
+          "id": "4.1.18",
+          "question":
+              "When hot water is sprikled on a hotter glass tumbler it breaks because -",
+          "options": [
+            "Glass expands",
+            "Glass contracts",
+            "Water evaporates",
+            "Glass reacts chemically with water"
+          ],
+          "reference": "SSC MTS(CML) 2000",
+          "answer_index": 0
+        },
+        {
+          "id": "4.1.19",
+          "question": "Which one of the following is an insulator",
+          "options": ["Copper", "Wood", "Mercury", "Aluminium"],
+          "reference": "SSC CGL 2016",
+          "answer_index": 1
+        },
+        {
+          "id": "4.1.20",
+          "question":
+              "Heat is transmitted from higher temp to lower temp through the actual motion of the molecules in - ",
+          "options": [
+            "Conduction",
+            "Convection",
+            "Radiation",
+            "Both conduction and convection"
+          ],
+          "reference": "SSC CGL 2016",
+          "answer_index": 1
+        },
+        {
+          "id": "4.2.1",
+          "question":
+              "When a stone is thrown at calm water of a pond waves produced are - ",
+          "options": [
+            "Longitudinal waves",
+            "Transverse wave",
+            "Both longitudinal and transverse wave",
+            "No wave produced"
+          ],
+          "reference": "SSC CHSL 2013",
+          "answer_index": 2
+        },
+        {
+          "id": "4.2.2",
+          "question": "Which instrument can be used to study the wave from a signal?",
+          "options": [
+            "Spectrometer",
+            "Oscilloscope",
+            "Sonometer",
+            "P-n junction diode"
+          ],
+          "reference": "SSC MTS 2014",
+          "answer_index": 1
+        },
+        {
+          "id": "4.2.3",
+          "question": "What is found in frequency modulation?",
+          "options": [
+            "Fixed frequency",
+            "Fixed dimension",
+            "Change in frequency and dimension",
+            "Change in dimension only"
+          ],
+          "reference": "SSC Sec. Off. 1997",
+          "answer_index": 0
+        },
+        {
+          "id": "4.2.4",
+          "question": "Which wave cannot be transmitted through vacuum?",
+          "options": ["Light", "Sound", "Heat", "Electromagnetic"],
+          "reference": "SSC CML(MTS) 2002",
+          "answer_index": 1
+        },
+        {
+          "id": "4.2.5",
+          "question":
+              "Intensity of any wave is proportional to which of the following?",
+          "options": [
+            "Amplitude",
+            "Square of Amplitude",
+            "Square root of amplitude",
+            "Cube of amplitude"
+          ],
+          "reference": "SSC CGL 2016",
+          "answer_index": 1
+        },
+        {
+          "id": "4.2.6",
+          "question": "The reverse effect of X-ray emission is -",
+          "options": [
+            "Raman effect",
+            "Compton effect",
+            "Zeeman effect",
+            "Photoelectric effect"
+          ],
+          "reference": "SSC CGL 2016",
+          "answer_index": 3
+        },
+        {
+          "id": "4.2.7",
+          "question": "which of the following wave cannot be polarized?",
+          "options": ["Radio", "Ultraviolet", "Infrared", "Ultrasonic"],
+          "reference": "SSC CGL 2016",
+          "answer_index": 3
+        },
+        {
+          "id": "4.2.8",
+          "question": "Which one of the following is not an electromagnetic wave?",
+          "options": ["X-ray", "Gamma_ray", "Cathode ray", "Infrared ray"],
+          "reference": "SSC CGL 2016",
+          "answer_index": 2
+        },
+        {
+          "id": "4.2.9",
+          "question": "Which one of the following has the lowest frequency?",
+          "options": ["Visible ray", "Gamma ray", "X-ray", "Ultraviolet ray"],
+          "reference": "SSC CGL 2016",
+          "answer_index": 0
+        },
+        {
+          "id": "4.2.10",
+          "question": "Every hot objects emits -",
+          "options": ["X-rays", "Visible light", "Infrared rays", "Ultraviolet rays"],
+          "reference": "SSC CGL 2016",
+          "answer_index": 2
+        },
+        {
+          "id": "4.2.11",
+          "question":
+              "In which region of electromagnetic spectrum does the Lyman series of Hydrogen atom lie?",
+          "options": ["Visible", "Infrared", "Ultraviolet", "X-ray"],
+          "reference": "SSC CGL 2016",
+          "answer_index": 2
+        },
+        {
+          "id": "4.2.12",
+          "question": "Which of these travels in glass with minimum velocity",
+          "options": ["Red light", "Violet light", "Green light", "Yellow light"],
+          "reference": "SSC CGL 2015",
+          "answer_index": 1
+        },
+        {
+          "id": "4.2.13",
+          "question": "X-rays are -",
+          "options": [
+            "+vely charged particles",
+            "-vely charged particles",
+            "Neutral particles",
+            "None of these"
+          ],
+          "reference": "SSC CGL 2015",
+          "answer_index": 2
+        },
+        {
+          "id": "4.2.14",
+          "question":
+              "The damage of the human body due to radiation is measured in -",
+          "options": ["Rems", "Roentgen", "Curie", "Rads"],
+          "reference": "SSC CGL 2014",
+          "answer_index": 3
+        },
+        {
+          "id": "4.2.15",
+          "question": "Transition ions absorb light in region - ",
+          "options": ["Infrared", "Ultraviolet", "Microwave", "Visible"],
+          "reference": "SSC CGL 2014",
+          "answer_index": 3
+        },
+        {
+          "id": "4.2.16",
+          "question":
+              "Green house effect is the heating of the Earth's atmosphere which is due to - ",
+          "options": ["The UV rays", "Gamma-rays", "The infrared rays", "X-rays"],
+          "reference": "SSC MTS 2014",
+          "answer_index": 2
+        },
+        {
+          "id": "4.2.17",
+          "question": "Which of the following supports particle nature of photons?",
+          "options": [
+            "Diffraction",
+            "Polarization",
+            "Photoelectric effect",
+            "Interference"
+          ],
+          "reference": "SSC CASF,CISF 2013",
+          "answer_index": 2
+        },
+        {
+          "id": "4.2.18",
+          "question": "Matter waves are - ",
+          "options": [
+            "de Broglie waves",
+            "Electromagnetic waves",
+            "Transverse wave",
+            "Longitudinal waves"
+          ],
+          "reference": "SSC CHSL 2013",
+          "answer_index": 0
+        },
+        {
+          "id": "4.2.19",
+          "question":
+              "Which electromagnetic radiation is used for satelite communication?",
+          "options": ["Ultraviolet", "Infrared", "Microwave", "Millimeter wave"],
+          "reference": "SSC CHSL 2013",
+          "answer_index": 2
+        },
+        {
+          "id": "4.2.20",
+          "question": "The radiation initially produced in fluorescent tube is -",
+          "options": ["Infrared", "Ultraviolet", "Microwaves", "X-rays"],
+          "reference": "SSC CML(MTS) 2013",
+          "answer_index": 1
+        },
+        {
+          "id": "4.3.1",
+          "question":
+              "The colour of the ocean appears to be blue because the sunlight falling on it is -",
+          "options": ["Reflected", "Refracted", "Diffracted", "Scattered"],
+          "reference": "SSC CGL 2016",
+          "answer_index": 3
+        },
+        {
+          "id": "4.3.2",
+          "question": "In the absence of earth's atmosphere, sky would appear -",
+          "options": ["Blue", "Deep Red", "White", "Black"],
+          "reference": "SSC CGL 2016",
+          "answer_index": 3
+        },
+        {
+          "id": "4.3.3",
+          "question":
+              "Which is the phenomenon which established the transverse nature of light?",
+          "options": ["Reflection", "Refraction", "Diffraction", "Polarization"],
+          "reference": "SSC CGL 2016",
+          "answer_index": 3
+        }
+      ]
+}

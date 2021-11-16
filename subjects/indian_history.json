@@ -1,0 +1,628 @@
+{
+    "data" : [
+        {
+          "id": "1.1.1",
+          "question": "The Social System of Harrapan was:",
+          "options": [
+            "Fairly egalitarian",
+            "Slave-Labour based",
+            "Colour-Varna based",
+            "Caste-based"
+          ],
+          "reference": "SSC CGL 1999",
+          "answer_index": 0
+        },
+        {
+          "id": "1.1.2",
+          "question": "Which statement on the Harrappan Civilization is correct?",
+          "options": [
+            "Horse sacrifice known",
+            "Cow was sacred",
+            "'Pashupati' worshipped",
+            "Static culture "
+          ],
+          "reference": "SSC CGL 1999",
+          "answer_index": 2
+        },
+        {
+          "id": "1.1.3",
+          "question":
+              "Which one indicates the commercial and economic development in the Indus Valley Excavation?",
+          "options": ["The pottery", "Seals", "The boats", "The houses"],
+          "reference": "SSC CPO SI 2003",
+          "answer_index": 1
+        },
+        {
+          "id": "1.1.4",
+          "question": "The earliest city discovered in India was?",
+          "options": ["Harappa", "Punjab", "Mohenjo Daro", "Sindh"],
+          "reference": "SSC CPO SI 2003",
+          "answer_index": 0
+        },
+        {
+          "id": "1.1.5",
+          "question": "Which has not been found in the excavation of Harappan sites?",
+          "options": ["Drains and well", "Fort", "Reservoirs", "Temple with Shikhar"],
+          "reference": "SSC Sec. Officer 2003",
+          "answer_index": 3
+        },
+        {
+          "id": "1.1.6",
+          "question": "The Harappan Civilization was discovered in the year:",
+          "options": ["1935", "1942", "1921", "1922"],
+          "reference": "SSC CGL 2004",
+          "answer_index": 2
+        },
+        {
+          "id": "1.1.7",
+          "question":
+              "The relationship between the ancient culture of Indus Valley and Hinduism is proved by worship of:",
+          "options": [
+            "Pashupati and Indra",
+            " Stones, trees and animals",
+            "Vishnu and Laxmi",
+            "Shiva and Shakti"
+          ],
+          "reference": "SSC Tax. Asst.",
+          "answer_index": 1
+        },
+        {
+          "id": "1.1.8",
+          "question":
+              "Which was the only Indus site with an artificial brick dockyard?",
+          "options": ["Lothal", "Kalibangan", "Harappa", "Mohenjo Daro"],
+          "reference": "SSC CGL 2016",
+          "answer_index": 0
+        },
+        {
+          "id": "1.1.9",
+          "question":
+              "Which of the animals was absent in the teracottas of the Indus Valley",
+          "options": ["Buffalo", "Sheep", "Cow", "Pig"],
+          "reference": "SSC CGL 2005",
+          "answer_index": 2
+        },
+        {
+          "id": "1.1.10",
+          "question": "Which was the only Indus city without a citadel?",
+          "options": ["Kalibangan", "Harappa", "Mohenjodaro", "Chanhudaro"],
+          "reference": "SSC CGL 2005",
+          "answer_index": 3
+        },
+        {
+          "id": "1.1.11",
+          "question": "The essential feature of Indus Valley Civilization was:",
+          "options": [
+            "Worship of forces of nature",
+            "Organised city life",
+            "Pastrol farming",
+            "Caste Society"
+          ],
+          "reference": "SSC CGL 2007",
+          "answer_index": 1
+        },
+        {
+          "id": "1.1.12",
+          "question":
+              "The people of Indus Valley Civilization usually built their houses of :",
+          "options": ["Burnt Bricks", " Stone", "Wood", "All of the above"],
+          "reference": "SSC Sec. Officer 2008",
+          "answer_index": 0
+        },
+        {
+          "id": "1.1.13",
+          "question": "The first metal used by man was :",
+          "options": ["Aluminium", "Copper", "Iron", "Silver"],
+          "reference": "SSC Investigator 2010",
+          "answer_index": 1
+        },
+        {
+          "id": "1.1.14",
+          "question": "The Striking feature of the Indus Valley Civilization was :",
+          "options": [
+            "Urban Civilization",
+            "Agrarian Civilization",
+            "Mesolithic Civilization",
+            "Paleolithic Civilization"
+          ],
+          "reference": "FCI Assistant 2012",
+          "answer_index": 0
+        },
+        {
+          "id": "1.1.15",
+          "question":
+              "Who was the first to discover the Traces of Harappan Civilization.",
+          "options": [
+            "Sir Johan Marshall",
+            "R. D. Banerjee",
+            "A. Cunningham",
+            "Daya Ram Sahni"
+          ],
+          "reference": "SSC CML(MTS) 1999",
+          "answer_index": 2
+        },
+      
+        {
+          "id": "1.1.16",
+          "question": "Kalibangan is situated in - ",
+          "options": ["Uttar Pradesh", "Sindh", "Rajasthan", "Gujarat"],
+          "reference": "SSC CML 1999, 2002",
+          "answer_index": 2
+        },
+        {
+          "id": "1.1.17",
+          "question":
+              "Who amongst the following is associated with the study of Harrapan Civilization?",
+          "options": ["Charles Mason", "Cunningham", "M. Wheeler", "M. S. Vats"],
+          "reference": "SSC CML(MTS) 2000 ",
+          "answer_index": 3
+        },
+        {
+          "id": "1.1.18",
+          "question": "The Harappans were the earliest people to produce - ",
+          "options": ["Seals", "Bronze Implements", "Cotton", "Barley"],
+          "reference": "SSC CML(MTS) 2001",
+          "answer_index": 2
+        },
+        {
+          "id": "1.1.19",
+          "question":
+              "Which of the following material used in the manfacturing of Harrapan seals?",
+          "options": ["Terracota ", "Bronze", "Copper", "Iron"],
+          "reference": "SSC CML(MTS) 2002",
+          "answer_index": 0
+        },
+        {
+          "id": "1.1.20",
+          "question": "The language from which the term 'India' is derived is -",
+          "options": ["English", "Greek", "Persian", "Arabic"],
+          "reference": "SSC CML(MTS) 2006",
+          "answer_index": 2
+        },
+        {
+          "id": "1.2.1",
+          "question": "The home of Gargi, Maitrey and Kapila was at",
+          "options": ["Vidisha", "Ujjain", "Patliputra", "Mithila"],
+          "reference": "SSC Sec. Officer 1997",
+          "answer_index": 3
+        },
+        {
+          "id": "1.2.2",
+          "question":
+              "Which of the following Vedas provides information about the civilization of the early Vedic Age ",
+          "options": ["Rig-veda", "Yajur-veda", "Atharva-veda", "Sama-veda"],
+          "reference": "SSC CGL 1999",
+          "answer_index": 0
+        },
+        {
+          "id": "1.2.3",
+          "question": "The most important of vedic mathematics is :",
+          "options": [
+            "Satapatha Brahman",
+            "Atharva Veda",
+            "Sulva Sutras",
+            "Chhandogya Upanishad"
+          ],
+          "reference": "SSC CGL 1999",
+          "answer_index": 2
+        },
+        {
+          "id": "1.2.4",
+          "question":
+              "Which of the following craftmanship was not practised by the Aryans",
+          "options": ["Pottery", "Jewellery", "Carpentry", "Blacksmith"],
+          "reference": "SSC CPO SI 2003",
+          "answer_index": 3
+        },
+        {
+          "id": "1.2.5",
+          "question":
+              "The words 'Satyamev Jayate' in the State Emblem of India were taken from -",
+          "options": ["Upanishads", "Sama Veda", "Rig Veda", "Ramayana"],
+          "reference": "SSC CPO SI 2003",
+          "answer_index": 0
+        },
+        {
+          "id": "1.2.6",
+          "question":
+              "Who is hailed as the 'God of Medicine' by the practitioners of Ayurveda?",
+          "options": ["Susruta", "Chyavana", "Dhanwantari", "Charaka"],
+          "reference": "SSC Sec. Officer 2005",
+          "answer_index": 2
+        },
+        {
+          "id": "1.2.7",
+          "question": "The word 'Veda' means - ",
+          "options": ["Knowledge", "Wisdom", "Skill", "Power"],
+          "reference": "SSC Tax Asst. 2007",
+          "answer_index": 0
+        },
+        {
+          "id": "1.2.8",
+          "question": "Which metal was the first used by vedic people?",
+          "options": ["Silver", "Gold", "Iron", "Copper"],
+          "reference": "SSC Tax Asst. 2007",
+          "answer_index": 3
+        },
+        {
+          "id": "1.2.9",
+          "question": "The caste system of India was created for:",
+          "options": [
+            "Immobility of labour",
+            "Recognization of dignity of labour",
+            "Economic uplift",
+            "Occupational division of labour"
+          ],
+          "reference": "FCI Asst. 2012",
+          "answer_index": 3
+        },
+        {
+          "id": "1.2.10",
+          "question": "The origins of India music could be traced to ",
+          "options": ["Rig-ved", "Yajur-ved", "Sam-ved", "Atharva-ved"],
+          "reference": "SSC CML(MTS) 2000",
+          "answer_index": 2
+        },
+        {
+          "id": "1.2.11",
+          "question": "The crop which was not known to vedic people is",
+          "options": ["Barley", "Wheat", "Rice", "Tobacco"],
+          "reference": "SSC CML(MTS) 2001",
+          "answer_index": 3
+        },
+        {
+          "id": "1.2.12",
+          "question": "The staple food of the Vedic Aryans was:",
+          "options": [
+            "Barley and rice",
+            "Milk and its products",
+            "Rice and pulses",
+            "Vegetables and fruits"
+          ],
+          "reference": "SSC CML(MTS) 2006",
+          "answer_index": 1
+        },
+        {
+          "id": "1.2.13",
+          "question":
+              "The tax which the kings used to collect from the people in the Vedic period was called-",
+          "options": ["Bali", "Vidhata", "Varman", "Kara"],
+          "reference": "SSC DEO 2008",
+          "answer_index": 0
+        },
+        {
+          "id": "1.2.14",
+          "question": "Which is the first stages of life in Aryan Society ",
+          "options": ["Brahmacharya", "Grihashta", "Vanaprashta", "Sanyas"],
+          "reference": "SSC DEO 2009",
+          "answer_index": 0
+        },
+        {
+          "id": "1.2.15",
+          "question":
+              "The Rig-Vedic Aryans were a pastoral people is born out by the fact that-",
+          "options": [
+            "References to the cow in the Rig-veda",
+            "Wars were fought for the sake of cows",
+            "Gift to priest were usually cows",
+            "All of the above"
+          ],
+          "reference": "SSC CHSL 2010",
+          "answer_index": 3
+        },
+        {
+          "id": "1.2.16",
+          "question":
+              "The Aryans succeeded in their conflicts with the pre-Aryans because -",
+          "options": [
+            "They used elephants on the large scale",
+            "They were taller and stronger",
+            "They were from an advanced urban culture",
+            "They used chariots driven by horses"
+          ],
+          "reference": "SSC CHSL 2010",
+          "answer_index": 3
+        },
+        {
+          "id": "1.2.17",
+          "question": "Who among the following was the pioneer of Yoga?",
+          "options": ["Patanjali", "Banabhatta", "Atreya", "Vrudukanta"],
+          "reference": "SSC CISF GD 2011",
+          "answer_index": 0
+        },
+        {
+          "id": "1.2.18",
+          "question": "Who among the following was not a physician?",
+          "options": ["Sushruta", "Charaka", "Charvaka", "Dhanvantari"],
+          "reference": "SSC CHSL 2012",
+          "answer_index": 2
+        },
+        {
+          "id": "1.2.19",
+          "question": "The first grammarian of the Sanskrit language was:",
+          "options": ["Kalhana", "Maitreyi", "Kalidasa", "Panini"],
+          "reference": "SSC CHSL 2012",
+          "answer_index": 3
+        },
+        {
+          "id": "1.2.20",
+          "question":
+              "Which one of the following Vedas contains sacrificial formulae?",
+          "options": ["Sama Veda", "Rig Veda", "Yajur Veda", "Atharva Veda"],
+          "reference": "SSC CHSL 2012",
+          "answer_index": 2
+        },
+        {
+          "id": "1.3.1",
+          "question": "Which area of India was known as Avantika in ancient times?",
+          "options": ["Avadh", "Ruhelkhand", "Bundelkhand", "Malwa"],
+          "reference": "SSC Sec.Officer 1997",
+          "answer_index": 3
+        },
+        {
+          "id": "1.3.2",
+          "question": "The 'Ajivikas' were-",
+          "options": [
+            "Sect contemporary to Buddha",
+            "Breakaway branch of Buddhists",
+            "Sect founded by charvaka",
+            "Sect founded by Shankracharya"
+          ],
+          "reference": "SSC Tax Asst. 2004",
+          "answer_index": 0
+        },
+        {
+          "id": "1.3.3",
+          "question":
+              "Which ruler murdered his father, Bimbisara to ascend the throne?",
+          "options": ["Ashoka", "Ajatshatru", "Kanishka", "Simukha"],
+          "reference": "SSC CML(MTS) 2002",
+          "answer_index": 1
+        },
+        {
+          "id": "1.3.4",
+          "question":
+              "Alexandeer and the army of Porus camped on the opposite bank of which river?",
+          "options": ["Ravi", "Jhelum", "Satluj", "Chenab"],
+          "reference": "SSC CML(MTS) 2000",
+          "answer_index": 1
+        },
+        {
+          "id": "1.3.5",
+          "question":
+              "Which dynasty ruled between the 412 BC and 344 BC in the Maghada Empire?",
+          "options": ["Haryankas", "Shishunagas", "Nandas", "Mauryans"],
+          "reference": "SSC CHSL 2008",
+          "answer_index": 1
+        },
+        {
+          "id": "1.3.6",
+          "question":
+              "King Kharvela was the greatest ruler of the Chedi Dynasty of :",
+          "options": ["Cholamandalam", "Kalinga", "Kannauj", "Purushpur"],
+          "reference": "SSC CGL 2013",
+          "answer_index": 1
+        },
+        {
+          "id": "1.3.7",
+          "question": "Name the kingdom which first used elephants in wars-",
+          "options": ["Kosala", "Magadha", "Champa", "Avanti"],
+          "reference": "SSC CAPFs & ASI 2015",
+          "answer_index": 1
+        },
+        {
+          "id": "1.3.8",
+          "question":
+              "Whose army did Alexander, the Greek ruler, confront on the banks of the river Jhelum?",
+          "options": ["Chandragupta Maurya", "Ambi", "Dhanananda", "Porus"],
+          "reference": "SSC CHSL,DEO,PA 2015",
+          "answer_index": 3
+        },
+        {
+          "id": "1.3.9",
+          "question":
+              "Name of Republic which was a confederacy to tribes in the 6th century BC-",
+          "options": ["Gandhara", "Vajji", "Koushal", "Avanti"],
+          "reference": "SSC CHSL,DEO,PA 2015",
+          "answer_index": 1
+        },
+        {
+          "id": "1.3.10",
+          "question":
+              "Which one of the following scholar, challanged Invincible Yajnavalkya for debate?",
+          "options": ["Ghosha", "Apala", "Maitreyi", "Gargi"],
+          "reference": "SSC CHSL 2014",
+          "answer_index": 3
+        },
+        {
+          "id": "1.3.11",
+          "question":
+              "Which of the following ruler was responsible for the rise of Magadha?",
+          "options": ["Bindusara", "Ajatshatru", "Bimbisara", "Vasudeva"],
+          "reference": "SSC CHSL 2008",
+          "answer_index": 2
+        },
+        {
+          "id": "1.3.12",
+          "question": "Which dynasty ruled over Magadha after Mauryan dynasty",
+          "options": ["Satavahan", "Shunga", "Nanda", "Kanva"],
+          "reference": "SSC CHSL 2013",
+          "answer_index": 1
+        },
+        {
+          "id": "1.3.13",
+          "question": "Nalanda Mahavira site is in:",
+          "options": ["Rajasthan", "Assam", "Bihar", "Gujarat"],
+          "reference": "SSC CHSL 2013",
+          "answer_index": 2
+        },
+      
+        {
+          "id": "1.4.1",
+          "question": "The first Tirthankara of the Jains was:",
+          "options": ["Arishtanemi", "Parshvanath", "Ajitanath", "Rishabha"],
+          "reference": "SSC CGL 1999",
+          "answer_index": 3
+        },
+        {
+          "id": "1.4.2",
+          "question":
+              "With which of the following is the classic 'Jivaka Chintamani' in Tamil associated?",
+          "options": ["Jainism", "Buddhism", "Hinduism", "Christianity"],
+          "reference": "SSC CGL 2002",
+          "answer_index": 0
+        },
+        {
+          "id": "1.4.3",
+          "question": "Where did Lord Buddha breathe his last?",
+          "options": ["Rajgir", "Bodhgaya", "Sarnath", "Kushinagar"],
+          "reference": "SSC CGL 2002",
+          "answer_index": 3
+        },
+        {
+          "id": "1.4.4",
+          "question": "Gandhara school of art came into existence in-",
+          "options": [
+            "Hinayana sect",
+            "Mahayana sect",
+            "Vaishnava sect",
+            "Shaiva sect"
+          ],
+          "reference": "SSC CPO 2003",
+          "answer_index": 1
+        },
+        {
+          "id": "1.4.5",
+          "question":
+              "Who, according to Budhists, is believed to be the next incarnation of Gautam Buddha",
+          "options": ["Atreya", "Maitreya", "Nagarjuna", "Kalki"],
+          "reference": "SSC CPO SI 2003",
+          "answer_index": 1
+        },
+        {
+          "id": "1.4.6",
+          "question": "Which among the following 'Mathh' is related with Buddhism?",
+          "options": ["Dakhma", "Chaitya", "Khangah", "Angeri"],
+          "reference": "SSC Sec. Officer 2003",
+          "answer_index": 1
+        },
+        {
+          "id": "1.4.7",
+          "question":
+              "Which among the following is the following is the sacred book of the Buddhists?",
+          "options": ["Upanishad", "Vedas", "Tripitaka", "Jatakas"],
+          "reference": "SSC CGL 2005",
+          "answer_index": 2
+        },
+        {
+          "id": "1.4.8",
+          "question": "Ashoka called the Third Buddhist Council at -",
+          "options": ["Pataliputra", "Magadha", "Kalinga", "Sarnath"],
+          "reference": "SSC CGL 2005",
+          "answer_index": 0
+        },
+        {
+          "id": "1.4.9",
+          "question": "The tutor of Alexander, the Great was -",
+          "options": ["Darius", "Cyrus", "Socrates", "Aristotle"],
+          "reference": "SSC CGL 2005",
+          "answer_index": 3
+        },
+        {
+          "id": "1.4.10",
+          "question":
+              "Who propounded the 'Eight-Fold Path' for the end of misery of mankind?",
+          "options": ["Mahavir", "Gautam Buddha", "Adi Shankracharya", "Kabir"],
+          "reference": "SSC CGL 2005",
+          "answer_index": 1
+        },
+        {
+          "id": "1.4.11",
+          "question":
+              "Budhhism made an important impact by allowing two sections of society into its fold. They were - ",
+          "options": [
+            "Merchants and Priests",
+            "Moneylenders and Slaves",
+            "Warriors and Traders",
+            "Women and Sudras"
+          ],
+          "reference": "SSC CPO SI 2006",
+          "answer_index": 3
+        },
+        {
+          "id": "1.4.12",
+          "question": "'Buddha' means-",
+          "options": [
+            "The Enlightened One",
+            "The Religious Preacher",
+            "The Genius",
+            "The Powerful"
+          ],
+          "reference": "SSC Sec. Off., CGL 2014",
+          "answer_index": 0
+        },
+        {
+          "id": "1.4.13",
+          "question": "Name the clan Buddha belonged to- ",
+          "options": ["Gnathrika", "Maurya", "Shakya", "Kuru"],
+          "reference": "SSC CGL 2008",
+          "answer_index": 2
+        },
+        {
+          "id": "1.4.14",
+          "question":
+              "Which of the following is not one of the animals carved on the Sarnath Pillar?",
+          "options": ["Humped Bull", "Deer", "Elephant", "Horse"],
+          "reference": "SSC Investigator 2010",
+          "answer_index": 1
+        },
+        {
+          "id": "1.4.15",
+          "question": "Which is the place where Buddha attained enlightenment? ",
+          "options": ["Sarnath", "Bodhgaya", "Kapilavastu", "Rajgriha"],
+          "reference": "SSC CGL 2011",
+          "answer_index": 1
+        },
+        {
+          "id": "1.4.16",
+          "question":
+              "Which one of the following was the last Buddhist text produced In India",
+          "options": ["Divya Vandana", "Dohakosa", "Vjrachedika", "Vamsathapakasini"],
+          "reference": "SSC CPO SI 2011",
+          "answer_index": 3
+        },
+        {
+          "id": "1.4.17",
+          "question": "Identify the Buddhists literature from the following:",
+          "options": ["Tripitakas", "Upanishads", "Angas", "Aranyakas"],
+          "reference": " FCI Asst. 2012",
+          "answer_index": 0
+        },
+        {
+          "id": "1.4.18",
+          "question": "The early Buddhist scriptures were composed in:",
+          "options": [
+            "Prakrit texts",
+            "Pali  texts",
+            "Sanskrit texts",
+            "Pictographical texts"
+          ],
+          "reference": "FCI Asst. 2012",
+          "answer_index": 1
+        },
+        {
+          "id": "1.4.19",
+          "question": "Gautam Buddha was born at:",
+          "options": ["Kushinagar", "Sarnath", "Bodhgaya", "Lumbini"],
+          "reference": "FCI Asst. 2012",
+          "answer_index": 3
+        },
+        {
+          "id": "1.4.20",
+          "question": "Who was the mother of Mahavira?",
+          "options": ["Yasoda", "Annojja", "Trishala", "Devanandi"],
+          "reference": "SSC CML(MTS) 1999",
+          "answer_index": 2
+        }
+    ]
+}

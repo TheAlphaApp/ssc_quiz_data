@@ -1,0 +1,513 @@
+{
+    "data" : [
+        {
+          "id": "7.1.1",
+          "question": "Which one of the following is an 'Air-to-Air' Missile?",
+          "options": ["Prithvi", "Agni", "Akash", "Astra"],
+          "reference": "SSC MTS 2011",
+          "answer_index": 3
+        },
+        {
+          "id": "7.1.2",
+          "question": "The chief of the Indian Navy has the rank of -",
+          "options": [
+            "General of Indian Navy",
+            "Chief of India Navy",
+            "Naval Chief",
+            "Admiral"
+          ],
+          "reference": "SSC CISF 2011",
+          "answer_index": 3
+        },
+        {
+          "id": "7.1.3",
+          "question": "Which one of the following is a Surface-to-Air Missile?",
+          "options": ["Trishul", "K-15 Sagarika", "Brahmos", "Agni"],
+          "reference": "SSC MTS 2011",
+          "answer_index": 0
+        },
+        {
+          "id": "7.1.4",
+          "question": "Nuclear explosive devices were tested in India at -",
+          "options": ["Sriharikota", "Bangalore", "Pokharan", "Kanchipuram"],
+          "reference": "SSC CPO 2010",
+          "answer_index": 2
+        },
+        {
+          "id": "7.1.5",
+          "question": "Which one of the following correctly describes AGNI?",
+          "options": [
+            "A fighter plane",
+            "A versatile tank",
+            "A long-range missile",
+            "A long-range gun"
+          ],
+          "reference": "SSC CGL 2008",
+          "answer_index": 2
+        },
+        {
+          "id": "7.1.6",
+          "question": "Who is known as 'The father of Indian missile technology'?",
+          "options": [
+            "Dr UR Rao",
+            "Dr APJ Abdul Kalam",
+            "Dr Chidambaram",
+            "Dr Homi Bhabha"
+          ],
+          "reference": "SSC SO 2007",
+          "answer_index": 1
+        },
+        {
+          "id": "7.1.7",
+          "question":
+              "What is the name of the Light Combat Aircraft developed by India indigenously?",
+          "options": ["Brahmos", "Chetak", "Astra", "Tejas"],
+          "reference": "SSC SO 2007",
+          "answer_index": 3
+        },
+        {
+          "id": "7.1.8",
+          "question": "INS Virat serves the Indian Navy. It is a -",
+          "options": ["Submarine", "Gunboat", "Aircraft carrier", "Freighter"],
+          "reference": "SSC Tax. Asst. 2005",
+          "answer_index": 2
+        },
+        {
+          "id": "7.1.9",
+          "question":
+              "Which of the following is the first missile which has been developed in India?",
+          "options": ["Akash", "Prithvi", "Agni", "Trishul"],
+          "reference": "SSC SO 2005",
+          "answer_index": 1
+        },
+        {
+          "id": "7.1.10",
+          "question": "Airforce academy is located in -",
+          "options": ["Hyderabad", "Coimbatore", "Kakinada", "Mumbai"],
+          "reference": "SSC CPO 2004",
+          "answer_index": 0
+        },
+        {
+          "id": "7.1.11",
+          "question": "Who developed Ballistic Missile?",
+          "options": [
+            "Wernher Von Braun",
+            "J Rober Oppenheimer",
+            "Edward Teller",
+            "Samuel Cohen"
+          ],
+          "reference": "SSC CHSL 2017",
+          "answer_index": 0
+        },
+        {
+          "id": "7.1.12",
+          "question":
+              "Which of the following is a stealth aircraft virtually undetectable even by radar?",
+          "options": [
+            "B-2 Spirit",
+            "B1-B Lancer",
+            "B-52 Stratofortrees",
+            "FA-18 Hornets"
+          ],
+          "reference": "SSC CGL 2002",
+          "answer_index": 0
+        },
+        {
+          "id": "7.1.13",
+          "question":
+              "Indian and Russian scientists successfully test-fired a supersonic cruise missile named -",
+          "options": ["GSAT-1", "GSLV", "Brahmos", "INSAT-3B"],
+          "reference": "SSC CML(MTS) 2002",
+          "answer_index": 2
+        },
+        {
+          "id": "7.1.14",
+          "question":
+              "The intermediate range nuclear capable missile developed indigenously named -",
+          "options": ["Agni", "Prithvi", "Nag", "Trishul"],
+          "reference": "SSC CML(MTS) 2001",
+          "answer_index": 3
+        },
+        {
+          "id": "7.1.15",
+          "question":
+              "Which country assisted India to establish the Koodan-Kulam Nuclear Power Station in Tamil Nadu?",
+          "options": ["Russia", "Canada", "Germany", "France"],
+          "reference": "SSC CML(MTS) 2000",
+          "answer_index": 0
+        },
+        {
+          "id": "7.1.16",
+          "question": "Which scale is used to measure the intensity of earthquake?",
+          "options": ["Richter", "Metric", "Centigrade", "Newton"],
+          "reference": "SSC Steno 2013",
+          "answer_index": 0
+        },
+        {
+          "id": "7.1.17",
+          "question": "Geostationary orbit is at a height of -",
+          "options": ["6 km", "1000 km", "3600 km", "36000 km"],
+          "reference": "SSC Steno 2013",
+          "answer_index": 3
+        },
+        {
+          "id": "7.1.18",
+          "question": "The National Chemical Laboratory is situated in -",
+          "options": ["New Delhi", "Bengaluru", "Pune", "Patna"],
+          "reference": "SSC CGL 2013",
+          "answer_index": 2
+        },
+        {
+          "id": "7.1.19",
+          "question":
+              "ISRO launched the world's first satellite dedicated to education, the EDUSAT in the month of - ",
+          "options": ["June, 2004", "July, 2004", "August, 2004", "September, 2004"],
+          "reference": "SSC CHSL 2012",
+          "answer_index": 3
+        },
+        {
+          "id": "7.1.20",
+          "question": "A geostationary satellite revolves round the Earth from -",
+          "options": [
+            "East to West",
+            "West to East",
+            "North to South",
+            "South to North"
+          ],
+          "reference": "SSC CGL 2011",
+          "answer_index": 1
+        },
+        {
+          "id": "7.1.21",
+          "question": "Vikram Sarabai Space Centre (VSSC) is at -",
+          "options": ["Thiruvananthapuram", "Mumbai", "Hyderabad", "Bengaluru"],
+          "reference": "SSC CHSL 2011",
+          "answer_index": 0
+        },
+        {
+          "id": "7.1.22",
+          "question":
+              "The first explosion of an atomic device in India was carried out in the state of -",
+          "options": ["Jammu and Kashmir", "Nagaland", "Manipur", "Rajasthan"],
+          "reference": "SSC CHSL 2011",
+          "answer_index": 3
+        },
+        {
+          "id": "7.1.23",
+          "question":
+              "The headquarters of MCF(Master Control Facility) the nerve centre of the entire spacecraft operations in India is at -",
+          "options": ["Hyderabad", "Thumba", "Sriharikota", "Hassan"],
+          "reference": "SSC CGL 2011",
+          "answer_index": 3
+        },
+        {
+          "id": "7.1.24",
+          "question":
+              "Which city receives the highest cosmic radiation amongst the following?",
+          "options": ["Chennai", "Mumbai", "Kolkata", "Delhi"],
+          "reference": "SSC CGL 2011",
+          "answer_index": 3
+        },
+        {
+          "id": "7.1.25",
+          "question": "OTEC stands for-",
+          "options": [
+            "Ocean Thermal Energy Conservation",
+            "Oil and Thermal Energy Conservation",
+            "Oil and Thermal Energy Convention",
+            "Ocean Thermal Energy Conversion"
+          ],
+          "reference": "SSC CGL 2011",
+          "answer_index": 3
+        },
+        {
+          "id": "7.1.26",
+          "question": "The rear side of the moon was photographed by -",
+          "options": ["Viking I", "Viking II", "Luna III", "Mariner IX"],
+          "reference": "SSC CGL 2011",
+          "answer_index": 2
+        },
+        {
+          "id": "7.1.27",
+          "question":
+              "Which country launched the world's first satellite dedicated to monitoring Greenhouse Gas emission in 2009?",
+          "options": ["Japan", "Brazil", "India", "USA"],
+          "reference": "SSC CGL 2011",
+          "answer_index": 0
+        },
+        {
+          "id": "7.1.28",
+          "question":
+              "The US Department of Energy's Brookhaven National Laboratory in New York an attempt to understand cosmic history used a giant atom smasher and has generated temperature of -",
+          "options": [
+            "52 Billion deg. C",
+            "85 Billion deg. C",
+            "2.5 trillion deg. C",
+            "4 trillion deg. C"
+          ],
+          "reference": "SSC SAS 2010",
+          "answer_index": 3
+        },
+        {
+          "id": "7.1.29",
+          "question": "Kaiga- II plant which supplies electricity is a -",
+          "options": [
+            "Hydel Project",
+            "Coal Project",
+            "Nuclear Power Reactor",
+            "None of the above"
+          ],
+          "reference": "SSC CISF 2010",
+          "answer_index": 2
+        },
+        {
+          "id": "7.1.30",
+          "question":
+              "The device in communication satellites which receives signals from an Earth station and transmits them to different directions is -",
+          "options": ["Transformer", "Transistor", "Transponder", "Transducer"],
+          "reference": "SSC CISF 2010",
+          "answer_index": 2
+        },
+        {
+          "id": "7.1.31",
+          "question": "Where is the satellite launching centre of India located?",
+          "options": ["Ahmedabad", "Hassan", "Sriharikota", "Thumba"],
+          "reference": "SSC SI 2010",
+          "answer_index": 2
+        },
+        {
+          "id": "7.1.32",
+          "question": "The 'Messenger satellite' launched by NASA is to study -",
+          "options": ["Mercury", "Venus", "Saturn", "Jupiter"],
+          "reference": "SSC CGL 2010",
+          "answer_index": 0
+        },
+        {
+          "id": "7.1.33",
+          "question":
+              "The first ever robot spacecraft to probe planet Venus was named -",
+          "options": ["Galileo", "Magellan", "Newton", "Challanger"],
+          "reference": "SSC SO 2008",
+          "answer_index": 0
+        },
+        {
+          "id": "7.1.34",
+          "question": "Comets revolve around the -",
+          "options": ["Earth", "Venus", "Sun", "Jupiter"],
+          "reference": "SSC SO 2008",
+          "answer_index": 2
+        },
+        {
+          "id": "7.1.35",
+          "question": "The name of India's research center at the North pole is -",
+          "options": ["Dakshin Gangotri", "Maitri", "Himadri", "None of the above"],
+          "reference": "SSC CPO 2008",
+          "answer_index": 2
+        },
+        {
+          "id": "7.1.36",
+          "question": "The first astronaut to walk on the outer space is -",
+          "options": [
+            "Aleksei Leonov",
+            "Yuri Gagarin",
+            "Neil Armstrong",
+            "Dave Scott"
+          ],
+          "reference": "SSC Tax. Asst. 2008",
+          "answer_index": 1
+        },
+        {
+          "id": "7.1.37",
+          "question": "Bhabha Atomic Research Centre (BARC) is situated in -",
+          "options": ["Delhi", "Mumbai", "Chennai", "Hyderabad"],
+          "reference": "SSC Tax. Asst. 2008",
+          "answer_index": 1
+        },
+        {
+          "id": "7.1.38",
+          "question":
+              "The Department of Space proposed setting up of IIST on the line of the IITs. It will have its independent campus at -",
+          "options": ["Chennai", "Thumba", "Thiruvananthapuram", "Sriharikota"],
+          "reference": "SSC Tax. Asst. 2007",
+          "answer_index": 2
+        },
+        {
+          "id": "7.1.39",
+          "question": "The period of revolution of a Geostat-Ionary satellite is -",
+          "options": ["24 days", "30 days", "365 days", "Changing Continously"],
+          "reference": "SSC CPO 2007",
+          "answer_index": 0
+        },
+        {
+          "id": "7.1.40",
+          "question":
+              "In which year, was the Indian Space Research Organisation (ISRO) founded?",
+          "options": ["1967", "1969", "1970", "1974"],
+          "reference": "SSC CPO 2007",
+          "answer_index": 1
+        },
+        {
+          "id": "7.1.41",
+          "question": "An astronaut in outer space will observe sky as -",
+          "options": ["White", "Black", "Blue", "Red"],
+          "reference": "SSC CGL 2007",
+          "answer_index": 1
+        },
+        {
+          "id": "7.1.42",
+          "question":
+              "Which Indian satellite is intended for long distance communications for transmitting TV programmes?",
+          "options": ["INSAT-A", "Aryabhata", "Bhaskara", "Rohini"],
+          "reference": "SSC SO 2007",
+          "answer_index": 0
+        },
+        {
+          "id": "7.1.43",
+          "question": "ISRO is abbreviation for - ",
+          "options": [
+            "Indian Scientific Research Organisation",
+            "International Space Reasearch Organisation",
+            "International Sales Research Organisation",
+            "Indian Space Research Organisation"
+          ],
+          "reference": "SSC CGL 2007",
+          "answer_index": 3
+        },
+        {
+          "id": "7.1.44",
+          "question": "To an astronaut, sky appears -",
+          "options": ["White", "Rich Blue", "Light Blue", "Dark"],
+          "reference": "SSC SO 2006",
+          "answer_index": 3
+        },
+        {
+          "id": "7.1.45",
+          "question": "What is supernova?",
+          "options": ["A black hole", "A dying star", "An asteroid", "A comet"],
+          "reference": "SSC SO 2006",
+          "answer_index": 1
+        },
+        {
+          "id": "7.1.46",
+          "question":
+              "Who propounded the possibility of placing communications satellites in geosynchronous orbit for the first time?",
+          "options": [
+            "Edwin P Hubble",
+            "William Herschel",
+            "Arthur C Clarke",
+            "Pierre Laplace"
+          ],
+          "reference": "SSC SO 2005",
+          "answer_index": 2
+        },
+        {
+          "id": "7.1.47",
+          "question": "Which space vehicle put man on the Moon first time?",
+          "options": ["Apollo", "Challenger", "Columbia", "Explorer"],
+          "reference": "SSC Tax. Asst. 2005",
+          "answer_index": 0
+        },
+        {
+          "id": "7.1.48",
+          "question":
+              "Which is satellite of India placed was launched on 10th April 2003 in the geosynchronous orbit?",
+          "options": ["INSAT-2D", "INSAT-3A", "INSAT-4A", "Kalpana"],
+          "reference": "SSC Tax. Asst. 2004",
+          "answer_index": 1
+        },
+        {
+          "id": "7.1.49",
+          "question": "Saha Institute of Nuclear Physics is situated at - ",
+          "options": ["Mumbai", "Kolkata", "Chennai", "New Delhi"],
+          "reference": "SSC CPO 2004",
+          "answer_index": 1
+        },
+        {
+          "id": "7.1.50",
+          "question":
+              "What is the name given to India's Meteorological Research Satellite (Met Sat) launched in 2003?",
+          "options": ["Aryabhata-1", "Kalpana-1", "Bhaskara-1", "Vikram-1"],
+          "reference": "SSC CPO 2004",
+          "answer_index": 1
+        },
+        {
+          "id": "7.1.51",
+          "question": "What is the name given to India Lunar Mission 2008?",
+          "options": ["Vikram-1", "Kalpana-2", "Chandrayan-1", "INSAT-5"],
+          "reference": "SSC CPO 2004",
+          "answer_index": 2
+        },
+        {
+          "id": "7.1.52",
+          "question":
+              "The premier research center for research in space and allied sciences, named the Physical Research Laboratory, is situated in -",
+          "options": ["Ahmedabad", "Dehradun", "Pune", "Bangalore"],
+          "reference": "SSC CPO 2004",
+          "answer_index": 0
+        },
+        {
+          "id": "7.1.53",
+          "question": "Geostationary satellite revolves at -",
+          "options": [
+            "Any height",
+            "Fixed height",
+            "Height which depends upon its mass",
+            "Height above pole"
+          ],
+          "reference": "SSC SO 2003",
+          "answer_index": 1
+        },
+        {
+          "id": "7.1.54",
+          "question":
+              "The process in which nitrogen is released in the atmosphere is - ",
+          "options": [
+            "Ammonification",
+            "Denitrification",
+            "Biological Nitrogen Fixation",
+            "Nitrification"
+          ],
+          "reference": "SSC CML(MTS) 2002",
+          "answer_index": 1
+        },
+        {
+          "id": "7.1.55",
+          "question": "A Nuclear Power Station is located at -",
+          "options": ["Kolkata", "Tarapur", "Korba", "Neyveli"],
+          "reference": "SSC CML(MTS) 2002",
+          "answer_index": 1
+        },
+        {
+          "id": "7.1.56",
+          "question":
+              "Who regulates the slots where geosynchronous satellites should be placed?",
+          "options": [
+            "UN Secratary General",
+            "International Telecommunication Union",
+            "NASA",
+            "Glaukosmos"
+          ],
+          "reference": "SSC SO 2001",
+          "answer_index": 1
+        },
+        {
+          "id": "7.1.57",
+          "question": "Indira Gandhi Centre for Atomic Research is situated in -",
+          "options": ["Shriharikota", "Mumbai", "Thiruvananthpuram", "Kalpakkam"],
+          "reference": "SSC CML(MTS) 2000",
+          "answer_index": 3
+        },
+        {
+          "id": "7.1.58",
+          "question": "Who was the first person to set foot on the moon?",
+          "options": [
+            "Yuri Gagarin",
+            "Valentina Tereshkova",
+            "Neil Armstrong",
+            "Steven Spielberg"
+          ],
+          "reference": "SSC CML(MTS) 2000",
+          "answer_index": 2
+        }
+      ]
+}

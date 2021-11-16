@@ -1,0 +1,1369 @@
+{
+    "data" : [
+        {
+          "id": "10.1.1",
+          "question": "To which of the following sports, Aga Khan Cup is related?",
+          "options": ["Table Tennis", "Hockey", "Cricket", "Football"],
+          "reference": "SSC CGL 2015",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.2",
+          "question":
+              "On the name of the which of the following players, a road is named after in Germany?",
+          "options": ["Roop Singh", "Dhanraj Pillay", "Dhyanchand", "Zafar Iqbal"],
+          "reference": "SSC CGL 2015",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.3",
+          "question":
+              "Who was the captain of Indian Hockey team that won the first Olympic gold medal in Amsterdam in 1928?",
+          "options": ["Dhyanchand", "Jaipal Singh", "Laibonkhan", "Kishan Lal"],
+          "reference": "SSC CGL 2013",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.4",
+          "question":
+              "Which of the following team defeated Indian hockey team in champions challange cup 2016 in United Kingdom?",
+          "options": ["Australia", "Germany", "Netherlands", "South Africa"],
+          "reference": "SSC CGL 2013",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.5",
+          "question":
+              "The final of Sultan Azlan Shah cup 2016 was played in between -",
+          "options": [
+            "India and Australia",
+            "India and Pakistan",
+            "Pakistan and Malaysia",
+            "Malaysia and Japan"
+          ],
+          "reference": "SSC CGL 2014",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.6",
+          "question":
+              "Which of the following women chess player of India became the super grand master by reaching on the second rank in the world?",
+          "options": [
+            "Tania Sachdev",
+            "S.Subbalakshmi",
+            "Humpy Koneru",
+            "None of these"
+          ],
+          "reference": "SSC CML(MTS) 2008",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.7",
+          "question": "In 1988, who became the first grand master of India?",
+          "options": [
+            "Vishwanathan Anand",
+            "Dibyendu Barua",
+            "Praveen Thipsay",
+            "Chanda Sandipan"
+          ],
+          "reference": "SSC CGL 2011",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.8",
+          "question": "Who won the World Youth Chess Championship 2016?",
+          "options": [
+            "Khanty Mansiysk",
+            "Kimi Raikkonen",
+            "Scot Fleming",
+            "D. Subbalaxmi"
+          ],
+          "reference": "SSC MTS 2017",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.9",
+          "question": "The game of chess was first started in -",
+          "options": ["India", "Persia", "Arab", "Europe"],
+          "reference": "SSC CML(MTS) 2008",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.10",
+          "question":
+              "Which was the first host nation winning the Cricket World Cup?",
+          "options": ["West Indies", "England", "Sri Lanka", "Australia"],
+          "reference": "SSC CML(MTS) 2000",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.11",
+          "question": "Who hosted the ICC Champions Trophy in 2017?",
+          "options": ["England", "India", "Sri Lanka", "South Africa"],
+          "reference": "SSC CGL,DEO 2016",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.12",
+          "question": "Who hosted the woman ICC World Cup in 2017",
+          "options": ["New Zealand", "England", "Australia", "India"],
+          "reference": "SSC",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.13",
+          "question":
+              "Who was the captain of West Indies Cricket team which was defeated by Indian Cricket team in Prudential World Cup in 1983?",
+          "options": [
+            "Viv Richards",
+            "Clive Lloyd",
+            "Richie Richardson",
+            "Malcolm Marshall"
+          ],
+          "reference": "SSC CPO 2003",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.14",
+          "question":
+              "Who holds the record of highest run in one day cricket world cup tournaments?",
+          "options": ["S. Ganguly", "S. Tendulkar", "B. Lara", "G. Kirsten"],
+          "reference": "SSC DEO 2004",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.15",
+          "question": "Ranji Trophy is related to -",
+          "options": ["Hockey", "Football", "Cricket", "None of these"],
+          "reference": "SSC CGL 2014",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.16",
+          "question":
+              "Who made the history in test cricket by chasing 418 in second innigs against Australia?",
+          "options": ["New Zealand", "England", "Pakistan", "West Indies"],
+          "reference": "SSC Steno 2014",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.17",
+          "question": "Who won the first ICC T-20 World Cup?",
+          "options": ["India", "Pakistan", "Australia", "England"],
+          "reference": "SSC MTS 2008",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.18",
+          "question": "When was the first Cricket World Cup organized?",
+          "options": ["1975", "1976", "1983", "1980"],
+          "reference": "SSC CML(MTS) 2000",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.19",
+          "question":
+              "Who was the captain of U-19 Cricket team which won the ICC U-19 cricket world cup 2016?",
+          "options": [
+            "Prashant Chopra",
+            "Shimrom Hetmyer",
+            "Sandeepan Das",
+            "Unmukt Chand"
+          ],
+          "reference": "SSC MTS 2013",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.20",
+          "question":
+              "Against which country, Sachin Tendulkar hit his 100th Century on 12 March, 2012 in Asia?",
+          "options": ["Bangladesh", "Sri Lanka", "Pakistan", "Indonesia"],
+          "reference": "SSC CHSL 2012",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.21",
+          "question":
+              "Which cities of New Zealand and Australia hosted the inaugural ceremony of ICC Cricket WC 2015?",
+          "options": [
+            "Christchurch and Melbourne",
+            "Hamilton and Perth",
+            "Napier and Adelaide",
+            "Wellington and Sydney"
+          ],
+          "reference": "SSC CHSL 2015",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.22",
+          "question": "Who was nominated as the ambassador of ICC Cricket WC 2015?",
+          "options": [
+            "Sanath Jayasuriya",
+            "Allan Robert Border",
+            "Sir Vivian Richards",
+            "Sachin Tendulkar"
+          ],
+          "reference": "SSC CHSL 2015",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.23",
+          "question": "Two sets of wickets in cricket are __________ distant.",
+          "options": ["24 yards", "18 yards", "20 yards", "22 yards"],
+          "reference": "SSC MTS 2013",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.24",
+          "question":
+              "To which stage, Indian woman cricket team reached in Woman World Cup 2005?",
+          "options": ["Final", "Semi-Final", "Quarter-Final", "Group-Stage"],
+          "reference": "SSC CGL 2005",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.25",
+          "question": "What is the permissible length of Cricket Bat?",
+          "options": ["32 inches", "34 inches", "36 inches", "38 inches"],
+          "reference": "SSC CGL 2004",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.26",
+          "question": "The term beamer is related to which game?",
+          "options": ["Football", "Hockey", "Cricket", "Chess"],
+          "reference": "SSC Tax Asst. 2006",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.27",
+          "question":
+              "Which of the following team does not get the status of 'Test' team?",
+          "options": ["England", "Bangladesh", "South Africa", "Kenya"],
+          "reference": "SSC CML(MTS) 2008",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.28",
+          "question":
+              "What is the distance between Popping crease and Stumps on cricket pitch?",
+          "options": ["2.5 feet", "3 feet", "3.5 feet", "4 feet"],
+          "reference": "SSC CGL 2004",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.29",
+          "question":
+              "Who holds the World record in test cricket for the most number of dismissals by a Wicket Keeper?",
+          "options": ["Mark Boucher", "Rodney Marsh", "Ian Healy", "Moin Khan"],
+          "reference": "SSC CGL 2001",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.30",
+          "question":
+              "Which player was named as Best Indian Bowler of the 20th century by the Wisden Magazine?",
+          "options": ["Kapil Dev", "BS Chandrashekhar", "B.S. Bedi", "Subhas Gupte"],
+          "reference": "SSC CGL 2002",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.31",
+          "question":
+              "Which of the following players became 'Best cricketer of 20th Century' By Wisden along with four other players?",
+          "options": ["Sunil Gavaskar", "Kapil Dev", "Shane Warne", "Brian Lara"],
+          "reference": "SSC CHSL 2011",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.32",
+          "question": "In which game 'Chinaman' is used?",
+          "options": ["Judo", "Cricket", "Billiards", "Golf"],
+          "reference": "SSC LDC 2005",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.33",
+          "question":
+              "Which of the following bowlers has taken the highest number of wickets in one day international?",
+          "options": ["Shane Warne", "Wasim Akram", "Kapil Dev", "Muralidharan"],
+          "reference": "SSC LDC 2005",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.34",
+          "question":
+              "Which team holds the record for the highest run score in an inning in any cricket world cup tournament?",
+          "options": ["Sri Lanka", "Australia", "India", "England"],
+          "reference": "SSC CML(MTS) 2008",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.35",
+          "question":
+              "Which of the following cricketer was the first to take 500 wickets in test matches?",
+          "options": ["Richard Hadley", "Courtney Walsh", "Kapil Dev", "Shane Warne"],
+          "reference": "SSC CML(MTS) 2002",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.36",
+          "question": "Asia Cup 2016 final was played between -",
+          "options": [
+            "India and Bangladesh",
+            "Pakistan and India",
+            "Sri Lanka and Pakistan",
+            "India and Sri Lanka"
+          ],
+          "reference": "SSC CPO 2009",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.37",
+          "question":
+              "Answer the name of player who has scored maximum number of centuries in one day cricket?",
+          "options": [
+            "Viv. Richards",
+            "Sachin Tendulkar",
+            "Saeed Anwar",
+            "Brian Lara"
+          ],
+          "reference": "SSC CML(MTS) 2001",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.38",
+          "question": "Who is the 4th Bowler to take 500 wickets in test cricket?",
+          "options": [
+            "Glenn Mcgrath",
+            "Anil Kumble",
+            "Shoaib Akhtar",
+            "Jason Gillespie"
+          ],
+          "reference": "SSC CGL 2005",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.39",
+          "question":
+              "Who holds the record for scoring highest run score in an inning of test match?",
+          "options": [
+            "Matthew Hayden",
+            "Don Bradman",
+            "Mahela Jaywardhane",
+            "Brian Lara"
+          ],
+          "reference": "SSC CGL 2006",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.40",
+          "question":
+              "How many double centuries have been scored by Sir Don Bradman in his test career?",
+          "options": ["10", "9", "6", "12"],
+          "reference": "SSC CML(MTS) 2002",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.41",
+          "question":
+              "Which of the following player was known as the 'Haryana Hurricane'?",
+          "options": ["Ajay Jadeja", "Ajay Rats", "Kapil Dev", "Nawab Pataudi"],
+          "reference": "SSC CPO 2015",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.42",
+          "question":
+              "What is the angle of bowling to throw the ball for maximum distance?",
+          "options": [
+            "60 deg. horizontal",
+            "45 deg. horizontal",
+            "30 deg horizontal",
+            "15 deg. horizontal"
+          ],
+          "reference": "SSC MTS 2011",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.43",
+          "question":
+              "Who is the Indian cricketer to score 3 consecutive centuries in his first 3 test matches?",
+          "options": [
+            "Saurav Ganguly",
+            "Md. Azharuddin",
+            "Surendra Amarnath",
+            "G. Vishvanath"
+          ],
+          "reference": "SSC CML(MTS) 2000",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.44",
+          "question": "Who was the first Centurion in Indian Cricket Team?",
+          "options": [
+            "Veenu Mankad",
+            "C.K. Naidu",
+            "Lala Amarnath",
+            "Mansoor Ali Pataudi"
+          ],
+          "reference": "SSC CPO 2006",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.45",
+          "question": "Answer the first man who took 200 wickets in One day cricket?",
+          "options": ["Kapil Dev", "Imran Khan", "Richard Hadley", "Ian Botham"],
+          "reference": "SSC CGL 2006",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.46",
+          "question":
+              "Who got the 'Purple Cup' for getting highest wickets in IPL-9?",
+          "options": [
+            "Harbhajan Singh",
+            "Malinga",
+            "Bhuvneshwar Kumar",
+            "Yuzvendra Chahal"
+          ],
+          "reference": "SSC CGL 2019",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.47",
+          "question": "Which wood is used to make the cricket bat?",
+          "options": [
+            "Morus Alba",
+            "Sandrus",
+            "Linum Usitatissimum",
+            "Salix Purpurea"
+          ],
+          "reference": "SSC FCI 2012",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.48",
+          "question": "India lost U-19 World Cup 2016 to which team in the final?",
+          "options": ["Australia", "England", "South Africa", "West Indies"],
+          "reference": "SSC FCI 2012",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.49",
+          "question":
+              "Who was the first India bowler to take hattrick in test matches?",
+          "options": [
+            "B.S. Chandrashekhar",
+            "E.A.S. Prasanna",
+            "B.S. Bedi",
+            "Harbhajan Singh"
+          ],
+          "reference": "SSC CML(MTS) 2002",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.50",
+          "question": "Which country has hosted the football World C  up 2014?",
+          "options": ["Spain", "France", "Chile", "Brazil"],
+          "reference": "SSC CGL 2015",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.51",
+          "question": "FIFA world cup 2018 had been organized in -",
+          "options": ["Russia", "Qatar", "France", "Netherlands"],
+          "reference": "SSC CGL 2019",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.52",
+          "question":
+              "The youngest player in any Football World Cup winner team is -",
+          "options": ["Norman Whiteside", "Pele", "Lothar Matthuas", "Maradona"],
+          "reference": "SSC CML(MTS) 2002",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.53",
+          "question":
+              "How many times has Brazil won the Football World Cup Championship?",
+          "options": ["Five", "One", "Four", "Two"],
+          "reference": "SSC MTS 2013",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.54",
+          "question": "Who won the Euro-2016 football championship?",
+          "options": ["Germany", "Czech Republic", "Portugal", "Greece"],
+          "reference": "SSC MTS 2018",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.55",
+          "question":
+              "Which of the following team had not won any world cup in 2002, 2006 and 2010?",
+          "options": ["Brazil", "Italy", "Spain", "South Africa"],
+          "reference": "SSC CGL 2011",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.56",
+          "question": "What is the number of players in Rugby Football?",
+          "options": ["16", "12", "11", "15"],
+          "reference": "SSC CHSL 2015",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.57",
+          "question": "In which sport, 'The Federation Cup' is related to India?",
+          "options": ["Hockey", "Football", "Basketball", "Badminton"],
+          "reference": "SSC CML(MTS) 2008",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.58",
+          "question": "In which game, the Rovers Cup is given to the winner team?",
+          "options": ["Football", "Basketball", "Rowing", "Volleyball"],
+          "reference": "SSC Steno. 2005",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.59",
+          "question":
+              "Name the captain of German Teams for the FIFA 2014 held in Brazil-",
+          "options": [
+            "Fernando Torres",
+            "Thomas Muller",
+            "Manuel Neuer",
+            "Xabi Alonso"
+          ],
+          "reference": "SSC Steno. 2010",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.60",
+          "question": "Who won the Santosh Trophy in 2016?",
+          "options": ["Services", "Maharashtra", "Kerala", "West Bengal"],
+          "reference": "SSC CML(MTS) 2006",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.61",
+          "question": "To which sport, Nehru Trophy is related?",
+          "options": ["Hockey", "Football", "Kabaddi", "Table-Tennis"],
+          "reference": "SSC MTS 2011",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.62",
+          "question": "Which country won the 'Copa America 2016'?",
+          "options": ["Brazil", "Chile", "Venezuela", "Peru"],
+          "reference": "SSC CHSL 2011",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.63",
+          "question": "To which sport, Santosh Trophy is related with?",
+          "options": ["Hockey", "Football", "Basketball", "Badminton"],
+          "reference": "SSC MTS 2011",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.64",
+          "question":
+              "Which women tennis player has won the grand slam titles most number of times?",
+          "options": [
+            "Venus Williams",
+            "Steffi Graf",
+            "Margaret Court",
+            "Serena Williams"
+          ],
+          "reference": "SSC CHSL 2013",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.65",
+          "question":
+              "Which is the first title among four Grand Slams played in every year?",
+          "options": ["French Open", "US Open", "Wimbledon", "Australian Open"],
+          "reference": "SSC CML(MTS) 1999",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.66",
+          "question": "In French Open 2016 men's single, Novak Djokovic defeated -",
+          "options": [
+            "Stefan Edberg",
+            "Andy Roddick",
+            "Andy Murray",
+            "Fred Alexander"
+          ],
+          "reference": "SSC CHSL 2017",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.67",
+          "question": "Who won the US open tennis men's title in August 2016?",
+          "options": [
+            "Roger Federer",
+            "Rafael Nadal",
+            "Mahesh Bhupati",
+            "Stan Wawrinka"
+          ],
+          "reference": "SSC CHSL 2017",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.68",
+          "question": "Which of the grand slam titles is known as 'Roland Garros'?",
+          "options": ["Australian Open", "French Open", "Wimbledon", "US Open"],
+          "reference": "SSC CHSL 2013",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.69",
+          "question":
+              "Which of the following women player has won the Wimbledon single title nine times?",
+          "options": [
+            "Mary Joe",
+            "Jana Novotna",
+            "Iva Majoli",
+            "Martina Navratilova"
+          ],
+          "reference": "SSC CGL 1999",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.70",
+          "question":
+              "Which of the following players have won the 50 doubles titles ATP tour history?",
+          "options": [
+            "Andy Roddick",
+            "Rafael Nadal",
+            "Leander Paes",
+            "Novak Djokovik"
+          ],
+          "reference": "SSC CHSL 2012",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.71",
+          "question":
+              "Roger Federer won his 7th Wimbledon title in 2012. When did he win his 6th Wimbledon Title?",
+          "options": ["2008", "2009", "2010", "2011"],
+          "reference": "SSC CHSL 2012",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.72",
+          "question":
+              "Who holds the record for the maximum number of men's single Grand Slam titles?",
+          "options": ["Roy Emerson", "Pete Sampras", "Roger Federer", "Rod Laver"],
+          "reference": "SSC CHSL 2018",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.73",
+          "question": "Which country has won the Hopman Cup in 2010?",
+          "options": ["Spain", "Germany", "Great Britain", "Australia"],
+          "reference": "SSC CPO 2010",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.74",
+          "question":
+              "The name of which of the following players has been related to a famous Sport Trophy?",
+          "options": [
+            "Bette Devis",
+            "Humphry Davy",
+            "Dwight F. Davis",
+            "Donald W. Davis"
+          ],
+          "reference": "SSC CML(MTS) 2002",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.75",
+          "question":
+              "Which player won the first Davis cup title for Spain in Dec. 2002?",
+          "options": [
+            "Juan Carlos Ferrero",
+            " Alex Corretja",
+            "Juan Balselly",
+            "Albert Costa"
+          ],
+          "reference": "SSC CML(MTS) 2001",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.76",
+          "question":
+              "Which of the 'Grand Slam Tournament' is played over grass court?",
+          "options": ["French Open", "Australian Open", "Wimbledon", "US Open"],
+          "reference": "SSC LDC,CGL 2005,'08",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.77",
+          "question": "Serena Williams is a top player of -",
+          "options": ["Badminton", "Shooting", "Tennis", "Chess"],
+          "reference": "SSC CPO 2010",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.78",
+          "question": "Who is the youngest number 1 tennis player in the world?",
+          "options": ["Steffi Graf", "Monica Seles", "Martina Hingis", "Chris Evert"],
+          "reference": "SSC CGL 1999",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.79",
+          "question":
+              "Which of the following women players was stabbed with a knife during a match?",
+          "options": [
+            "Steffi Graf",
+            "Monica Seles",
+            "Mary Pierce",
+            "Arantxa Sanches Vicario"
+          ],
+          "reference": "SSC CML(MTS) 2001",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.80",
+          "question":
+              "Which of the following international tennis tournaments is not organized at a fixed venue?",
+          "options": ["French Open", "Davis Cup", "US Open", "Australian Open"],
+          "reference": "SSC CML(MTS) 1999",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.81",
+          "question": "In which city, Olympic games of 2016 was organized?",
+          "options": ["Madrid", "Rio de Janeiro", "Los Angeles", "Toronto"],
+          "reference": "SSC CPO 15,16",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.82",
+          "question":
+              "Which country won the maximum medals in Brazil(Rio) Olympics 2016?",
+          "options": ["America", "France", "India", "Japan"],
+          "reference": "SSC CHSL 2017",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.83",
+          "question":
+              "Who is the first Indian woman medal winner in the Olympic games?",
+          "options": ["Kunjarani", "Aparna", "Karnam Malleswari", "Sania Mirza"],
+          "reference": "SSC MTS 2002,'14",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.84",
+          "question":
+              "Who won the highest number of medals in Asian Athletics games held in Wuhan, China",
+          "options": ["China", "Japan", "Saudi Arabia", "Bahrain"],
+          "reference": "SSC CHSL 2013",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.85",
+          "question":
+              "Who won the silver medal in women 400m race in Asian athletics championship 2015?",
+          "options": ["Zhao Yanmin", "M.R.Poovamma", "Tintu Luka", "Mayookha Johny"],
+          "reference": "SSC CHSL 2013",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.86",
+          "question":
+              "Answer the first Indian who was banned for using Anabolic Steroid in Olympic games?",
+          "options": [
+            "Sumita Laha",
+            "Ashwini Akunji",
+            "T. Sanamacha Chanu",
+            "P. T. Usha"
+          ],
+          "reference": "SSC GD 2015",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.87",
+          "question":
+              "Which of the following places has hosted the 2014 winter Olympic Games?",
+          "options": ["Sochi, Russia", "Albertville", "Lillehammer", "Calgary"],
+          "reference": "SSC MTS 2015",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.88",
+          "question":
+              "International Olympic Committee sold the broadcasting right of Olympic Games of 2014 and 2016 to -",
+          "options": ["Zee Sports", "Star India", "Doordarshan", "Set Max"],
+          "reference": "SSC CGL 2014",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.89",
+          "question":
+              "Who was the first Indian woman to qualify for the final of individual track event in Olympics?",
+          "options": ["P. T. Usha", "M. D. Valsamma", "Shiny Abraham", "Arti Saha"],
+          "reference": "SSC CHSL 2015",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.90",
+          "question":
+              "The first disabled athlete to qualify for an able-bodied 400m event of London Olympics 2012 was -",
+          "options": [
+            "Oscar Pistorius",
+            "Walter Rallies",
+            "Raymond Irchovich",
+            "Gerald Hangovin"
+          ],
+          "reference": "SSC CGL 2012",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.91",
+          "question": "When was the first Olympics Organized?",
+          "options": ["776 BC", "324 BC", "212 BC", "1896 BC"],
+          "reference": "SSC Steno. 2005",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.92",
+          "question": "Which city hosted the 30th Olympic Games?",
+          "options": ["Liverpool", "Lancashire", "Las Vegas", "London"],
+          "reference": "SSC CHSL 2011",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.93",
+          "question":
+              "Who won the gold medal consecutively two times in two Olympic Games for 400m race event",
+          "options": [
+            "Michael Johnson",
+            "Carl Lewis",
+            "Alvin Harrison",
+            "Gregory Hatton"
+          ],
+          "reference": "SSC CGL 2002",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.94",
+          "question":
+              "Which country won the highest number of medals in London Olympics 2012?",
+          "options": ["Japan", "Australia", "USA", "France"],
+          "reference": "SSC CPO 2013",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.95",
+          "question": "The official mascot of Rio Olympic games 2016 was -",
+          "options": ["Kangaroo", "Ostrich", "Vinicius", "Peacock"],
+          "reference": "SSC CPO 2006",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.96",
+          "question":
+              "How many gold medals were won by Michael Phelps in Rio Olympics?",
+          "options": ["6", "7", "8", "9"],
+          "reference": "SSC CGL 2014",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.97",
+          "question":
+              "20th Commonwealth games in Glasgow, Scottland had been organized in -",
+          "options": ["Dec. 2014", "Nov. 2014", "Jul. 2014", "Feb. 2014"],
+          "reference": "SSC CPO 2014",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.98",
+          "question": "Where had the 2014 Commonwealth Games been organized?",
+          "options": ["Bengaluru", "Delhi", "Sydney", "Scotland"],
+          "reference": "SSC Steno. 2014",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.99",
+          "question": "Krishna Pooniya is related to which sport?",
+          "options": [
+            "Wrestling",
+            "Woman Discus Throw",
+            "Boxing",
+            "Woman 25m Pistol"
+          ],
+          "reference": "SSC CHSL, Steno. 2015",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.100",
+          "question": "When was the first Commanwealth Games organized?",
+          "options": ["1948", "1938", "1934", "1930"],
+          "reference": "SSC CPO 2003",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.101",
+          "question": "Third Commonwealth Youth Games were Organized in?",
+          "options": ["Pune", "Karachi", "Dhaka", "London"],
+          "reference": "SSC CHSL 2010",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.102",
+          "question":
+              "Who holds the record for winning most number of Gold Medals in Commonwealth Games?",
+          "options": [
+            "Graham Smith",
+            "Susie O'neill",
+            "Petria Thomas",
+            "Mitchell Brown"
+          ],
+          "reference": "SSC CPO 2003",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.103",
+          "question":
+              "How many gold medals were won by India in commonwealth games organized in Manchester in 2002?",
+          "options": ["72", "30", "32", "20"],
+          "reference": "SSC CPO 2003",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.104",
+          "question": "How many times have the Asian Games organized in Delhi?",
+          "options": ["3", "2", "1", "4"],
+          "reference": "SSC CML(MTS) 2001",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.105",
+          "question": "Which country hosted the first commonwealth games in 1930?",
+          "options": [
+            "London (UK)",
+            "Sydney (Australia)",
+            "Hamilton (Canada)",
+            "Auckland (New Zealand)"
+          ],
+          "reference": "SSC CPO 2007",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.106",
+          "question":
+              "On which day, the National Sports Day is celebrated every year?",
+          "options": ["7 July", "29 August", "12 October", "2 April"],
+          "reference": "SSC",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.107",
+          "question": "Dronacharya Awards are awarded to -",
+          "options": [
+            "Excellent Teachers",
+            "Excellent Athletes",
+            "Excellent Archers",
+            "Excellent Coaches"
+          ],
+          "reference": "SSC CHSL 2012",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.108",
+          "question": "Which year M.S. Dhoni awarded the Padam Shri Award?",
+          "options": ["2007", "2009", "2008", "2010"],
+          "reference": "SSC",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.109",
+          "question":
+              "In which sport, an 'Indian League Tournament' has been organized in 2011 to make popular games like IPL(Cricket)?",
+          "options": ["Football", "Volleyball", "Hockey", "Basketball"],
+          "reference": "SSC CHSL 2012",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.110",
+          "question": "'Ryder Cup' is given to players of which sport?",
+          "options": ["Basketball", "Cards", "Golf", "Baseball"],
+          "reference": "SSC CGL,CHSL 2014,'15",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.111",
+          "question": "The most popular sport of USA is -",
+          "options": ["Baseball", "Cricket", "Hockey", "Tennis"],
+          "reference": "SSC CML(MTS) 2001",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.112",
+          "question":
+              "The former Indian cricket team captain Md. Azharuddin represented which of the following constituencies of Uttar Pradesh in Lok Sabha?",
+          "options": ["Mirzapur", "Muradabad", "Meerut", "Mathura"],
+          "reference": "SSC CHSL 2012",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.113",
+          "question":
+              "M.S. Dhoni was selected for which of the following awards of the year 2007?",
+          "options": [
+            "Arjun Award",
+            "Dronacharya Award",
+            "Rajeev Gandhi Khel Ratna Award",
+            "None of these"
+          ],
+          "reference": "SSC CPO 2009",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.114",
+          "question": "'Layup Shot' is associated with which of the following sport?",
+          "options": ["Volleyball", "Throw ball", "Basketball", "Handball"],
+          "reference": "SSC CML(MTS) 2002",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.115",
+          "question": "Where is Brabourne Stadium?",
+          "options": ["Kolkata", "Jamshedpur", "Mumbai", "Cuttack"],
+          "reference": "SSC CHSL 2015",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.116",
+          "question":
+              "Which of the following persons was awarded the first Rajeev Gandhi Khel Ratna award?",
+          "options": [
+            "Sachin Tendulkar",
+            "Vishwanathan Anand",
+            "Geet Sethi",
+            "Sunil Gawasker"
+          ],
+          "reference": "SSC CHSL 2012",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.117",
+          "question":
+              "Which of the following players won the title of ICC cricketer of the year award 2016?",
+          "options": [
+            "M.S. Dhoni",
+            "Gautam Gambhir",
+            "Ravichandran Ashwin",
+            "Dilshan"
+          ],
+          "reference": "SSC CGL 2010",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.118",
+          "question": "'Burdhvan Trophy' is associated with -",
+          "options": ["Wrestling", "Boxing", "Weight Lifting", "Kabaddi"],
+          "reference": "SSC MTS 2011",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.119",
+          "question": "What is the award money of the Dronacharya award?",
+          "options": ["1.5 Lakh", "2 Lakh", "3 Lakh", "5 Lakh"],
+          "reference": "SSC CPO 2005",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.120",
+          "question":
+              "Who has been awarded the 'Col CK Naidu life time achievement award' for 2016 by BCCI?",
+          "options": [
+            "Sachin Tendulkar",
+            "Sayyid Kirmani",
+            "VVS Laxman",
+            "Sunil Gavaskar"
+          ],
+          "reference": "SSC CGL 2013",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.121",
+          "question": "Narain Kartikeyan is associated with which sport?",
+          "options": ["Formula One Car Race", "Shooting", "Chess", "Golf"],
+          "reference": "SSC Tax Asst. 2006",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.122",
+          "question":
+              "Which of the following president of MCC was not a professional cricketer?",
+          "options": [
+            "Peter May",
+            "Christopher Martin-Jenkins",
+            "Ted Dexter",
+            "Colin Cowdrey"
+          ],
+          "reference": "SSC CGL 2013",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.123",
+          "question": "What was the Rajeev Gandhi Khel Ratna cash award money?",
+          "options": ["7.5 Lakh", "8 Lakh", "10 Lakh", "5 Lakh"],
+          "reference": "SSC CPO 2008",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.124",
+          "question": "'Subroto Cup' is related to which sport?",
+          "options": ["Football", "Tennis", "Golf", "Cricket"],
+          "reference": "SSC Steno. 2014",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.125",
+          "question": "Which award is related to 'Sports Personality'?",
+          "options": [
+            "Dronacharya Award",
+            "Oscar Award",
+            "Arjun Award",
+            "Pulitzer Award"
+          ],
+          "reference": "SSC CML(MTS) 2001",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.126",
+          "question": "In which sport, the term 'Bullseye' is used?",
+          "options": ["Boxing", "Basketball", "Polo", "Shooting"],
+          "reference": "SSC CGL 2014",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.127",
+          "question":
+              "Which of the following players was declared as the 'Leading Cricketer of 2016' by Wisden?",
+          "options": ["Stokes", "Bairstow", "Smith", "Virat Kohli"],
+          "reference": "SSC CGL 2017",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.128",
+          "question": "What is the national sport of Australia?",
+          "options": ["Cricket", "Football", "Baseball", "Bullfight"],
+          "reference": "SSC CML(MTS) 2001",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.129",
+          "question": "Where was the world shooting championship 2014 held?",
+          "options": ["New Delhi", "Granada", "Toronto", "Melbourne"],
+          "reference": "SSC FCI 2015",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.130",
+          "question": "Seema Antil is associated with -",
+          "options": ["Discus Throw", "Cricket", "Chess", "Basketball"],
+          "reference": "SSC CML(MTS) 2013",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.131",
+          "question": "Who was the winner of Rajiv Gandhi Khel Ratna award 2011?",
+          "options": [
+            "Gagan Narang",
+            "Saina Nehwal",
+            "Sachin Tendulkar",
+            "M.S. Dhoni"
+          ],
+          "reference": "SSC MTS 2013",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.132",
+          "question": "Limba Ram is associated with -",
+          "options": ["Marathon", "Shooting", "Archery", "Horse Riding"],
+          "reference": "SSC CML(MTS) 2001",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.133",
+          "question": "The term 'Pitcher' is associated with -",
+          "options": ["Wrestling", "Boxing", "Baseball", "Basketball"],
+          "reference": "SSC FCI 2012",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.134",
+          "question": "Which of the following game is played in 'Arena'?",
+          "options": ["Gymnastic", "Baseball", "Golf", "Wrestling"],
+          "reference": "SSC CHSL 2013",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.135",
+          "question": "'Deodhar Trophy' is related to which sport?",
+          "options": ["Football", "Tennis", "Cricket", "Golf"],
+          "reference": "SSC DEO 2008",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.136",
+          "question": "Who was awarded the Rajeev Gandhi Khel Ratna award for 2016?",
+          "options": [
+            "Sakshi Malik",
+            "Deepa Karmakar",
+            "Jeetu Rai",
+            "All of the above"
+          ],
+          "reference": "SSC CPO 2012",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.137",
+          "question": "The term 'Jump Ball' is associated to which sport?",
+          "options": ["Baseball", "Netball", "Basketball", "Softball"],
+          "reference": "SSC CML(MTS) 2002",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.138",
+          "question": "'Free Throw' is associated to which sport?",
+          "options": ["Volleyball", "Basketball", "Badminton", "Cricket"],
+          "reference": "SSC CML(MTS) 2001",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.139",
+          "question":
+              "Which player had said that he will not appeal against the accusation by American Anti-doping Agency?",
+          "options": [
+            "George Hincapie",
+            "Bradley Wiggins",
+            "Carl Lewis",
+            "Lance Armstrong"
+          ],
+          "reference": "SSC MTS 2013",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.140",
+          "question": "In which sport, the term 'Butterfly Stroke' is used?",
+          "options": ["Tennis", "Volleyball", "Wrestling", "Swimming"],
+          "reference": "SSC CPO 2004",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.141",
+          "question": "Greenpark Stadium is located in -",
+          "options": ["Bengaluru", "Dehradun", "Chandigarh", "Kanpur"],
+          "reference": "SSC CGL 2013",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.142",
+          "question": "First Indian to win the ICC ODI player of the year 2008 was?",
+          "options": [
+            "Saurav Ganguly",
+            "Virendra Sehvag",
+            "C. Kapugedera",
+            "M.S. Dhoni"
+          ],
+          "reference": "SSC Tax. Asst. 2008",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.143",
+          "question":
+              "Which of the following heavy weight boxers had never suffered a defeat in his lifetime?",
+          "options": [
+            "Rocky Marciano",
+            "Lee Apperson",
+            "Larry Holmes",
+            "Michael Spinks"
+          ],
+          "reference": "SSC CHSL 2010",
+          "answer_index": 0
+        },
+        {
+          "id": "10.1.144",
+          "question":
+              "In which of the following sports, the name of Geet Sethi is associated with?",
+          "options": ["Golf", "Billiards", "Tennis", "Cricket"],
+          "reference": "SSC Tax Asst. 2008",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.145",
+          "question": "Somedev Devvarman is the player of which sport?",
+          "options": ["Badminton", "Shooting", "Tennis", "Swimming"],
+          "reference": "SSC CGL 2010",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.146",
+          "question": "How many players are consisted in each team of Basketball?",
+          "options": ["6", "7", "4", "5"],
+          "reference": "SSC MTS 2013",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.147",
+          "question": "Thomas Cup is associated with which sport?",
+          "options": ["Hockey", "Football", "Basketball", "Badminton"],
+          "reference": "SSC Sec. Off. 2006",
+          "answer_index": 3
+        },
+        {
+          "id": "10.1.148",
+          "question": "P.V. Sindhu is the player of which sport?",
+          "options": ["Athletics", "Cricket", "Badminton", "Football"],
+          "reference": "SSC CPO 2012",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.149",
+          "question": "Saina Nehwal is associated with which sport?",
+          "options": ["Tennis", "Cricket", "Badminton", "Football"],
+          "reference": "SSC CPO 2012",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.150",
+          "question": "In 2013,F1 Indian Grand Prix was organized in -",
+          "options": ["Delhi", "Greater Noida", "Gurgaon", "Hyderabad"],
+          "reference": "SSC FCI 2013",
+          "answer_index": 1
+        },
+        {
+          "id": "10.1.151",
+          "question": "Jaspal Rana is associated with which sport?",
+          "options": ["Weight Lifting", "Boxing", "Shooting", "Archery"],
+          "reference": "SSC CGL 2015",
+          "answer_index": 2
+        },
+        {
+          "id": "10.1.152",
+          "question": "Who is called as the Flying Sikh of India?",
+          "options": [
+            "Mohindar Singh",
+            "Ajit Pal Singh",
+            "Jogindar Singh",
+            "Milkha Singh"
+          ],
+          "reference": "SSC Tax Asst. 2009",
+          "answer_index": 3
+        }
+      ]
+}

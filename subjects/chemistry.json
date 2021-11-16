@@ -1,0 +1,695 @@
+{
+    "data":[
+        {
+          "id": "5.1.1",
+          "question": "'Atomic theory' of matter was given by -",
+          "options": ["Avogardo", "Dalton", "Newton", "Pascal"],
+          "reference": "SSC MTS 2014",
+          "answer_index": 1
+        },
+        {
+          "id": "5.1.2",
+          "question": "Atomic size is of the order of -",
+          "options": ["10^-8 cm", "10^-10 cm", "10^-13 cm", "10^-6 cm"],
+          "reference": "SSC MTS 2014",
+          "answer_index": 0
+        },
+        {
+          "id": "5.1.3",
+          "question": "Which is among one of the fundamental particles of atom?",
+          "options": ["Meson", "Photon", "Neutron", "Deutron"],
+          "reference": "SSC MTS,CHSL 2006,13",
+          "answer_index": 2
+        },
+        {
+          "id": "5.1.4",
+          "question": "The size of the nucleus is measured in -",
+          "options": ["amu", "angstrom", "cm", "fermi"],
+          "reference": "SSC CGL 2015",
+          "answer_index": 3
+        },
+        {
+          "id": "5.1.5",
+          "question": "The radius of an atomic nucleus is of the order of -",
+          "options": ["10^-10 cm", "10^-13 cm", "10^-15 cm", "10^-8 cm"],
+          "reference": "SSC CGL 2015",
+          "answer_index": 1
+        },
+        {
+          "id": "5.1.6",
+          "question": "Nucleus of an atom consists of -",
+          "options": [
+            "Proton",
+            "Neutron",
+            "Proton and Neutron",
+            "Electron and Neutron"
+          ],
+          "reference": "SSC Sec. Off. 2003",
+          "answer_index": 2
+        },
+        {
+          "id": "5.1.7",
+          "question": "Which of the following is not a nucleon?",
+          "options": ["Proton", "Electron", "Neutron", "Positron"],
+          "reference": "SSC CGL 2013",
+          "answer_index": 1
+        },
+        {
+          "id": "5.1.8",
+          "question":
+              "According to Rutherford's atomic model, the electron inside an atom are -",
+          "options": ["Stationary", "Centralized", "Non-stationary", "None of these"],
+          "reference": "SSC CGL 2013",
+          "answer_index": 2
+        },
+        {
+          "id": "5.1.9",
+          "question":
+              "Rutherford's alpha scattering experiment related to the size of -",
+          "options": ["Nucleus", "Atom", "Electron", "Neutron"],
+          "reference": "SSC CHSL 2016",
+          "answer_index": 0
+        },
+        {
+          "id": "5.1.10",
+          "question":
+              "Discovery of an nucleus of an atom was due to the experiment carried out by -",
+          "options": ["Bohr", "Rutherford", "Moseley", "Thomson"],
+          "reference": "SSC CHSL 2013",
+          "answer_index": 1
+        },
+        {
+          "id": "5.1.11",
+          "question":
+              "The atomic number of Carbon is 6 and its atomic mass is 12. How many protons are there in the nucleus of Carbon?",
+          "options": ["6", "12", "18", "0"],
+          "reference": "SSC CGL 2002",
+          "answer_index": 0
+        },
+        {
+          "id": "5.1.12",
+          "question": "When Helium atom loses electron, then it becomes :",
+          "options": ["Proton", "+ve Helium ion", "-ve Helium ion", "Alpha particle"],
+          "reference": "SSC CGL 2015",
+          "answer_index": 1
+        },
+        {
+          "id": "5.1.13",
+          "question": "Which of the following particle is negatively charged?",
+          "options": ["Proton", "Neutron", "Positron", "Electron"],
+          "reference": "SSC LDC 2005",
+          "answer_index": 3
+        },
+        {
+          "id": "5.1.14",
+          "question": "The absolute value of charge on electron was determined by - ",
+          "options": ["J.J. Thomson", "R.A. Millikan", "Rutherford", "Chadwick"],
+          "reference": "SSC LDC 2005",
+          "answer_index": 1
+        },
+        {
+          "id": "5.1.15",
+          "question": "Electron moves around the nucleus in -",
+          "options": ["Translatory", "Spin", "Orbital", "Vibrational"],
+          "reference": "SSC CHSL 2012",
+          "answer_index": 2
+        },
+        {
+          "id": "5.1.16",
+          "question":
+              "An atom has 2 e in K-Shell, 8 e in L-Shell, 6 e in M-shell. The numbers of s-electrons present in that element is (e = electrons) -",
+          "options": ["6", "5", "7", "10"],
+          "reference": "SSC CHSL 2012",
+          "answer_index": 0
+        },
+        {
+          "id": "5.1.17",
+          "question": "The protons is heavier than an electron by -",
+          "options": ["187 times", "1837 times", "3837 times", "2827 times"],
+          "reference": "SSC DP SI 2014",
+          "answer_index": 1
+        },
+        {
+          "id": "5.1.18",
+          "question": "CN- ion is isoelectronic with -",
+          "options": ["N2", "CO", "Both N2 and CO", "None"],
+          "reference": "SSC CGL 2013",
+          "answer_index": 2
+        },
+        {
+          "id": "5.1.19",
+          "question":
+              "Which of the following is maximum number of electrons that can be present in M-shell?",
+          "options": ["2", "8", "18", "32"],
+          "reference": "SSC DP SI 2014",
+          "answer_index": 2
+        },
+        {
+          "id": "5.1.20",
+          "question":
+              "Electrons in the highest energy level of an atom are called___________.",
+          "options": [
+            "Valence protons",
+            "Orbital protons",
+            "Valence electrons",
+            "Orbital electrons"
+          ],
+          "reference": "SSC CHSL 2016",
+          "answer_index": 2
+        },
+        {
+          "id": "5.2.1",
+          "question": "Radioactivity is the fission of -",
+          "options": ["Nucleus", "Ion", "Atom", "Molecule"],
+          "reference": "SSC MTS 2013",
+          "answer_index": 0
+        },
+        {
+          "id": "5.2.2",
+          "question": "What is the unit of the physical quantity, Radio Activity?",
+          "options": ["Radian", "Becquerel", "Steradian", "Kelvin"],
+          "reference": "SSC CHSL 2016",
+          "answer_index": 1
+        },
+        {
+          "id": "5.2.3",
+          "question": "Phenomenon of radioactivity was discovered by -",
+          "options": ["Becquerel", "Rutherford", "Curie", "Suri"],
+          "reference": "SSC CGL 2015",
+          "answer_index": 0
+        },
+        {
+          "id": "5.2.4",
+          "question": "Uranium eventually decays into a stable isotope of -",
+          "options": ["Radium", "Thorium", "Polonium", "Lead"],
+          "reference": "SSC CPO 2011",
+          "answer_index": 3
+        },
+        {
+          "id": "5.2.5",
+          "question": "In India, nuclear weapon was tested at -",
+          "options": ["Shri Hari Kota", "Bangalore", "Pokhran", "Kanchipuram"],
+          "reference": "SSC CPO,CHSL 2007",
+          "answer_index": 2
+        },
+        {
+          "id": "5.2.6",
+          "question": "Radioactivity is measured by -",
+          "options": [
+            "Calorimeter",
+            "Polarimeter",
+            "Barometer",
+            "Geiger-Muller counter"
+          ],
+          "reference": "SSC CGL 2006",
+          "answer_index": 3
+        },
+        {
+          "id": "5.2.7",
+          "question": "Which one of the following is not a radioactive element?",
+          "options": ["Uranium", "Thorium", "Plutonium", "Zirconium"],
+          "reference": "SSC CPO 2005",
+          "answer_index": 3
+        },
+        {
+          "id": "5.2.8",
+          "question": "The most suitable unit to express the nuclear radius is -",
+          "options": ["Fermi", "Angstrom", "Micron", "Nanometer"],
+          "reference": "SSC CHSL 2015",
+          "answer_index": 0
+        },
+        {
+          "id": "5.2.9",
+          "question": "Radioactive Noble gas is -",
+          "options": ["Xe", "He", "Ne", "Rn"],
+          "reference": "SSC Steno 2014",
+          "answer_index": 3
+        },
+        {
+          "id": "5.2.10",
+          "question":
+              "There is no change in radioactive element (Mass or charge) during -",
+          "options": [
+            "Gamma emission",
+            "Oxidation",
+            "Alpha emission",
+            "Beta emission"
+          ],
+          "reference": "SSC MTS 2013",
+          "answer_index": 0
+        },
+        {
+          "id": "5.2.11",
+          "question": "Which of the following is a radioactive element?",
+          "options": ["Cobalt", "Uranium", "Argon", "Chromium"],
+          "reference": "SSC CGL 2016",
+          "answer_index": 1
+        },
+        {
+          "id": "5.2.12",
+          "question": "Which one of the following is radioactive?",
+          "options": ["Cesium", "Platinum", "Strontium", "Thorium"],
+          "reference": "SSC Tax Asst. 2002",
+          "answer_index": 3
+        },
+        {
+          "id": "5.2.13",
+          "question":
+              "Radioactive samples are stored in lead boxes. Lead is used because it is -",
+          "options": ["Heavy", "Strong", "Good absorber", "Bad conductor"],
+          "reference": "SSC CHSL 2009",
+          "answer_index": 2
+        },
+        {
+          "id": "5.2.14",
+          "question": "The nuclear forces are -",
+          "options": [
+            "Charge independent",
+            "Spin independent",
+            "Charge symmetric",
+            "Long range"
+          ],
+          "reference": "SSC MTS 2011",
+          "answer_index": 0
+        },
+        {
+          "id": "5.2.15",
+          "question": "The lightest radioactive element is -",
+          "options": ["Deuterium", "Polonium", "Tritium", "Uranium"],
+          "reference": "SSC CHSL 2016",
+          "answer_index": 2
+        },
+        {
+          "id": "5.2.16",
+          "question":
+              "The element that does not occur in nature but can be produced artificially is -",
+          "options": ["Thorium", "Radium", "Plutonium", "Uranium"],
+          "reference": "SSC CHSL 2016",
+          "answer_index": 2
+        },
+        {
+          "id": "5.2.17",
+          "question":
+              "Which of the following caused radioactive pollution along the coase of Kerala?",
+          "options": ["Plutonium", "Zinc", "Thorium", "Radium"],
+          "reference": "SSC CHSL 2016",
+          "answer_index": 2
+        },
+        {
+          "id": "5.2.18",
+          "question": "Unstable substances exhibit higher radioactivity due to :",
+          "options": ["Low p/n ratio", "High p/n ratio", "p/n = 1", "None of these"],
+          "reference": "SSC CGL 2011",
+          "answer_index": 0
+        },
+        {
+          "id": "5.2.19",
+          "question": "Which type of reaction produces the most harmful radiation?",
+          "options": ["Fusion", "Fission", "Chemical reaction", "Photo chemical"],
+          "reference": "SSC CGL 2011",
+          "answer_index": 1
+        },
+        {
+          "id": "5.2.20",
+          "question":
+              "The element which is commonly used in nuclear reactor for producing electricity in nuclear fission is -",
+          "options": ["Radium", "Plutonium", "Uranium", "Deuterium"],
+          "reference": "SSC Sec. Off. 2001",
+          "answer_index": 2
+        },
+        {
+          "id": "5.3.1",
+          "question": "What happens in an oxidation reaction?",
+          "options": [
+            "Protons are lost",
+            "Electrons are lost",
+            "Neutrons are lost",
+            "Electrons are gained"
+          ],
+          "reference": "SSC CHSL 2016",
+          "answer_index": 1
+        },
+        {
+          "id": "5.3.2",
+          "question": "Which among the following is not a character of oxidation?",
+          "options": [
+            "Addition of hydrogen",
+            "Addition of oxygen ",
+            "Loss of electrons",
+            "Addition of electronegative element"
+          ],
+          "reference": "SSC CHSL 2016 ",
+          "answer_index": 0
+        },
+        {
+          "id": "5.3.3",
+          "question":
+              "The liberation of oxygen during photosynthesis is due to _____.",
+          "options": [
+            "Hydrolysis of carbohydrates",
+            "Photolysis of water",
+            "Reduction of CO2",
+            "Breakdown of chlorophyll"
+          ],
+          "reference": "SSC CGL 2016 ",
+          "answer_index": 1
+        },
+        {
+          "id": "5.3.4",
+          "question": "When Hydrogen combusts in air, then formed-",
+          "options": ["Ammonia", "Water", "Methane", "Carbonic acid"],
+          "reference": "SSC Steno 2010",
+          "answer_index": 1
+        },
+        {
+          "id": "5.3.5",
+          "question": "Browning of paper in books caused by:",
+          "options": [
+            "Frequent use",
+            "Lack of aeration",
+            "Collection of dust",
+            "Oxidation of cellulose"
+          ],
+          "reference": "SSC MTS 1999",
+          "answer_index": 3
+        },
+        {
+          "id": "5.3.6",
+          "question": "Oxygen has (+) oxygen number only in:",
+          "options": ["OF2", "Cl2 O", "H2 O", "N2 O"],
+          "reference": "SSC Steno 2011",
+          "answer_index": 0
+        },
+        {
+          "id": "5.3.7",
+          "question": "The oxidation number of nickel in K4[Ni(CN)4] is:",
+          "options": ["0", "+4", "-4", "+8"],
+          "reference": "SSC MTS 2013",
+          "answer_index": 0
+        },
+        {
+          "id": "5.3.8",
+          "question":
+              "The oxidation number of sulphur in S8, S2F2 and H2S respectively are",
+          "options": [
+            "0, +1 and -2",
+            "+2, +1 and -2",
+            "0, +1 and +2",
+            "-2, +1 and -2"
+          ],
+          "reference": "SSC MTS 2013",
+          "answer_index": 0
+        },
+        {
+          "id": "5.3.9",
+          "question":
+              "Nitrogen forms a variety of compounds in all oxidations states ranging from-",
+          "options": ["-3 to +6", "-3 to +3", "-3 to +5", "-3 to +4"],
+          "reference": "SSC GD 1999",
+          "answer_index": 2
+        },
+        {
+          "id": "5.3.10",
+          "question": "Oxidation state of 'Fe3 O4' is-",
+          "options": ["3/2", "4/5", "5/4", "8/3"],
+          "reference": "SSC CGL 2001",
+          "answer_index": 3
+        },
+        {
+          "id": "5.3.11",
+          "question": "The oxidation state of Cr in 'K2 Cr2 O7' is-",
+          "options": ["+7", "+6", "+3", "+2"],
+          "reference": "SSC MTS 2007",
+          "answer_index": 1
+        },
+        {
+          "id": "5.3.12",
+          "question": "In 'H2 O2',oxidation state of oxygen is",
+          "options": ["-2", "-1", ".0", "-4"],
+          "reference": "SSC CHSL 2016",
+          "answer_index": 1
+        },
+        {
+          "id": "5.3.13",
+          "question":
+              "In which of the following compounds transition metal has zero oxidation state?",
+          "options": ["CrO5", "Fe3O4", "FeSO4", "Fe(CO)5"],
+          "reference": "SSC CHSL 2016",
+          "answer_index": 3
+        },
+        {
+          "id": "5.3.14",
+          "question":
+              "Cooking oil is converted into vegetable ghee by the process of-",
+          "options": [
+            "Hydrogenation",
+            "Oxidation",
+            "Condensation",
+            "Crystallization"
+          ],
+          "reference": "SSC CPO 2011",
+          "answer_index": 0
+        },
+        {
+          "id": "5.3.15",
+          "question": "Rusting of Iron is-",
+          "options": [
+            "Due to oxidation",
+            "Due to carbonation",
+            "Due to epoxidation",
+            "Due to corrosion"
+          ],
+          "reference": "SSC Tax Asst. 2007",
+          "answer_index": 0
+        },
+        {
+          "id": "5.3.16",
+          "question": "The rusting of iron metal in air needs both-",
+          "options": [
+            "Carbon dioxide and Mositure",
+            "Water and Pain",
+            "Oxygen and grease",
+            "Oxygen and Mositure"
+          ],
+          "reference": "SSC CGL 2014",
+          "answer_index": 3
+        },
+        {
+          "id": "5.3.17",
+          "question": "What is Rusting of Iron?",
+          "options": [
+            "Physical change",
+            "Electric change",
+            "Photo Chemical change",
+            "Non of the above"
+          ],
+          "reference": "SSC MTS 2013",
+          "answer_index": 3
+        },
+        {
+          "id": "5.3.18",
+          "question": "Iron rusts quickly in-",
+          "options": ["Rain water", "Distilled water", "Sea water", "River water"],
+          "reference": "SSC CGL 2014",
+          "answer_index": 2
+        },
+        {
+          "id": "5.3.19",
+          "question": "The rusting of iron-",
+          "options": [
+            "Deceases its weight",
+            "Increases its weight",
+            "Remains same",
+            "Can't say (unpredictable)"
+          ],
+          "reference": "SSC MTS 2008",
+          "answer_index": 1
+        },
+        {
+          "id": "5.3.20",
+          "question":
+              "The coating of thin layer of zinc on steel or iron object is known as",
+          "options": ["Hot dipping", "Tinning", "Galvanising", "Electroplating"],
+          "reference": "SSC MTS 1999",
+          "answer_index": 2
+        },
+        {
+          "id": "5.4.1",
+          "question": "The element common to all acids is ?",
+          "options": ["Hydrogen", "Nitrogen", "Oxygen", "Sulphur"],
+          "reference": "SSC CGL 2017",
+          "answer_index": 0
+        },
+        {
+          "id": "5.4.2",
+          "question": "Which acid is known as 'King of chemicals'?",
+          "options": ["HCl", "H2SO4", "HNO3", "H3PO4"],
+          "reference": "SSC MTS 2002",
+          "answer_index": 1
+        },
+        {
+          "id": "5.4.3",
+          "question": "Which is known as Carbolic acid?",
+          "options": ["Phenol", "Ethanol", "Acetic acid", "Oxalic acid"],
+          "reference": "SSC CGL 2016",
+          "answer_index": 0
+        },
+        {
+          "id": "5.4.4",
+          "question": "Ammonium chloride is acidic salt, becouse it is a salt of:-",
+          "options": [
+            "Weak acid and Weak base",
+            "Weak acide and Strong base",
+            "Strong acid and Weak base",
+            "Strong acid and Strong base"
+          ],
+          "reference": "SSC MTS 2003",
+          "answer_index": 2
+        },
+        {
+          "id": "5.4.5",
+          "question": "Acids turn ______ litmus to_____",
+          "options": ["Red, Blue", "Green, Yellow", "Yellow, Green", "Blue, Red"],
+          "reference": "SSC CHSL 2016",
+          "answer_index": 3
+        },
+        {
+          "id": "5.4.6",
+          "question":
+              "Which of the following metals behaves as a non-metal towards concentrated HNO3?",
+          "options": ["Cu", "Fe", "Sn", "Pb"],
+          "reference": "SSC CGL 2009",
+          "answer_index": 2
+        },
+        {
+          "id": "5.4.7",
+          "question": "Concentrated HNO3 is stored in containers made of:",
+          "options": ["Cu", "Zn", "Al", "Si"],
+          "reference": "SSC MTS 2017",
+          "answer_index": 2
+        },
+        {
+          "id": "5.4.8",
+          "question": "Which of the following is strongest acid?",
+          "options": [
+            "Acetic acid",
+            "Monochloro acetic acid",
+            "Dichloro acetic acid",
+            "Trichloro acetic acid"
+          ],
+          "reference": "SSC MTS 2006",
+          "answer_index": 3
+        },
+        {
+          "id": "5.4.9",
+          "question": "Organic acid containing Hydroxyl group is -",
+          "options": [
+            "Benzoic acid",
+            "Carbolic acid",
+            "Acetic acid",
+            "Cinnamic acid"
+          ],
+          "reference": "SSC MTS 2006",
+          "answer_index": 1
+        },
+        {
+          "id": "5.4.10",
+          "question": "Sulphuric acid is -",
+          "options": ["Monobasic", "Dibasic", "Tribasic", "Tetrabasic"],
+          "reference": "SSC CHSL 2013",
+          "answer_index": 1
+        },
+        {
+          "id": "5.4.11",
+          "question": "Chemical name of vinegar is -",
+          "options": ["Acetone", "Acetic acid", "Formaldehyde", "Ethanol"],
+          "reference": "SSC CGL 2016",
+          "answer_index": 1
+        },
+        {
+          "id": "5.4.12",
+          "question": "Which of the following acid is used in the battery?",
+          "options": [
+            "Hydrochloric acid",
+            "Hydrofluoric acid",
+            "Sulphuric acid",
+            "None of these"
+          ],
+          "reference": "SSC Tax Asst. 2007",
+          "answer_index": 2
+        },
+        {
+          "id": "5.4.13",
+          "question": "Which of the following does not contain a carboxylic group?",
+          "options": ["Picric acid", "Aspirin acid", "Benzoic acid", "Ethanoic acid"],
+          "reference": "SSC CHSL 2016",
+          "answer_index": 0
+        },
+        {
+          "id": "5.4.14",
+          "question": "Chemical name of 'Oil of Vitriol' is -",
+          "options": [
+            "Sulphuric acid",
+            "Hydrochloric acid",
+            "Phosphoric acid",
+            "Nitric acid"
+          ],
+          "reference": "SSC Steno 2012",
+          "answer_index": 0
+        },
+        {
+          "id": "5.4.15",
+          "question":
+              "The compound used in prickly heat powder to prevent excessive sweating is -",
+          "options": [
+            "Boric acid",
+            "Phosphoric acid",
+            "Carbonic acid",
+            "Sulphonic acid"
+          ],
+          "reference": "SSC CGL 2016",
+          "answer_index": 0
+        },
+        {
+          "id": "5.4.16",
+          "question": "Name the source from which Aspirin is produced?",
+          "options": ["Willow Bark", "Oak Tree", "Acacia", "Eucalyptus"],
+          "reference": "SSC CHSL 2016",
+          "answer_index": 0
+        },
+        {
+          "id": "5.4.17",
+          "question": "The acid used to dissolve gold is -",
+          "options": ["Hydrochloric", "Aquaregia", "Nitric Acide", "Phosphoric acid"],
+          "reference": "SSC MTS 1998",
+          "answer_index": 1
+        },
+        {
+          "id": "5.4.18",
+          "question":
+              "Baking soda is one of the constituents of baking powder. The other constituent is -",
+          "options": ["Acetic Acid", "HCl", "Citric Acid", "Tartaric Acid"],
+          "reference": "SSC CHSL 2016",
+          "answer_index": 3
+        },
+        {
+          "id": "5.4.19",
+          "question": "Hydrolic acid is also known as -",
+          "options": ["Galic acid", "Picric acid", "Muriatic acid", "Chloric acid"],
+          "reference": "SSC CHSL 2014",
+          "answer_index": 2
+        },
+        {
+          "id": "5.4.20",
+          "question": "Among these which one is a mild acid?",
+          "options": [
+            "Hydrochloric Acid",
+            "Nitric Acid",
+            "Sulphuric Acid",
+            "Boric Acid"
+          ],
+          "reference": "SSC CHSL 2014",
+          "answer_index": 3
+        }
+      ]
+}
